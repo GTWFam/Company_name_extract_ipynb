@@ -1,0 +1,3804 @@
+{
+    "3M": {
+        "adDaptive": [
+            {
+                "3M": 77
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "ABB": {
+        "adDaptive": [
+            {
+                "ABB": 94
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Abbot Labratories": {
+        "adDaptive": [
+            {
+                "Abbott Laboratories": 4260
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "ADP": {
+        "adDaptive": [
+            {
+                "ADP (adp)": 31
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Aetna": {
+        "adDaptive": [
+            {
+                "Aetna": 1705
+            },
+            {
+                "Aetna Inc.": 2
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "AIG": {
+        "adDaptive": [
+            {
+                "AIG (aig)": 14
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Alaska Air": {
+        "adDaptive": [
+            {
+                "Alaska Air Conditioning": 27
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "All State": {
+        "adDaptive": [
+            {
+                "All State": 5
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Ally": {
+        "adDaptive": [
+            {
+                "Ally & Ally, LLC": 11
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Ally Financial Inc.": 1
+            },
+            {
+                "Ally Financial Inc.": 1
+            },
+            {
+                "Ally Financial Inc.": 1
+            },
+            {
+                "Ally Financial Inc.": 2
+            },
+            {
+                "Ally Financial Inc.": 1
+            },
+            {
+                "Ally Financial Inc.": 4
+            },
+            {
+                "Ally Financial Inc.": 2
+            },
+            {
+                "Ally Financial Inc.": 2
+            },
+            {
+                "Ally Financial Inc.": 2
+            },
+            {
+                "Ally Financial Inc.": 2
+            },
+            {
+                "Ally Financial Inc.": 2
+            }
+        ]
+    },
+    "Altria": {
+        "adDaptive": [
+            {
+                "Altria": 28
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Amazon": {
+        "adDaptive": [
+            {
+                "Amazon": 3250
+            },
+            {
+                "AMAZON": 12
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Amazon Corporate LLC": 5
+            },
+            {
+                "Amazon Corporate LLC": 2
+            }
+        ]
+    },
+    "American Airlines": {
+        "adDaptive": [
+            {
+                "American Airlines": 381
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "American Express": {
+        "adDaptive": [
+            {
+                "American Express": 7906
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "American Red Cross": {
+        "adDaptive": [
+            {
+                "American Red Cross": 4775
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "AmerisourceBergen": {
+        "adDaptive": [
+            {
+                "Amerisourcebergen": 8
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Ametek": {
+        "adDaptive": [
+            {
+                "Ametek": 13
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Amgen": {
+        "adDaptive": [
+            {
+                "Amgen": 87
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Amkor": {
+        "adDaptive": [
+            {
+                "Amkor LLC": 52
+            },
+            {
+                "Amkor, Inc.": 50
+            },
+            {
+                "Amkor, LLC": 32
+            },
+            {
+                "Amkor Technology, Inc.": 207
+            },
+            {
+                "Amkor Appraisals": 2
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Anthem": {
+        "adDaptive": [
+            {
+                "Anthem, Inc.": 32551
+            },
+            {
+                "Anthem": 2221
+            },
+            {
+                "Anthem Inc": 685
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Anthem Health": {
+        "adDaptive": [
+            {
+                "Anthem Health": 16
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Apple": {
+        "adDaptive": [
+            {
+                "Apple Apple": 62
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Apple": 1
+            },
+            {
+                "Apple Inc.": 2
+            },
+            {
+                "Apple Inc.": 3
+            },
+            {
+                "Apple Inc.": 2
+            }
+        ]
+    },
+    "Aramark": {
+        "adDaptive": [
+            {
+                "Aramark": 9377
+            },
+            {
+                "ARAMARK": 3
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Asplundh Tree Expert": {
+        "adDaptive": [
+            {
+                "Asplundh Tree Expert": 45
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "AT&T": {
+        "adDaptive": [
+            {
+                "AT&T": 4104
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Atlas Holdings": {
+        "adDaptive": [
+            {
+                "Atlas Holdings LLC": 1832
+            },
+            {
+                "Atlas Holdings, LLC": 254
+            },
+            {
+                "Atlas Holdings, Inc.": 3
+            },
+            {
+                "Atlas Holdings International": 73
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Autoliv": {
+        "adDaptive": [
+            {
+                "Autoliv, Inc.": 90
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Avaya": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "AXA XL": {
+        "adDaptive": [
+            {
+                "Axa Xl": 1113
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Axel Johnson": {
+        "adDaptive": [
+            {
+                "Axel Johnson Inc.": 167
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "B. Braun Medica": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Baker Hughes": {
+        "adDaptive": [
+            {
+                "Baker Hughes": 1255
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Bank of America": {
+        "adDaptive": [
+            {
+                "Bank of America": 570
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Bank of Canada": {
+        "adDaptive": [
+            {
+                "Bank of Canada": 12
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Bank of England": {
+        "adDaptive": [
+            {
+                "Bank of England": 2248
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Banner Health": {
+        "adDaptive": [
+            {
+                "Banner Health": 5197
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Barclays": {
+        "adDaptive": [
+            {
+                "Barclays": 1118
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "BBC": {
+        "adDaptive": [
+            {
+                "BBC": 280
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Beaumont": {
+        "adDaptive": [
+            {
+                "Beaumont": 3
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Bell": {
+        "adDaptive": [
+            {
+                "Bell Bell": 101
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Beneva": {
+        "adDaptive": [
+            {
+                "Beneva L.L.C.": 4
+            },
+            {
+                "Beneva Mart": 145
+            },
+            {
+                "Beneva Flowers": 10
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Berry Global": {
+        "adDaptive": [
+            {
+                "Berry Global": 21
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "BlackRock": {
+        "adDaptive": [
+            {
+                "Blackrock": 153
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "BMO": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "BNP Paribas": {
+        "adDaptive": [
+            {
+                "BNP Paribas": 319
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "BNY Mellon": {
+        "adDaptive": [
+            {
+                "Bny Mellon": 275
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Boeing": {
+        "adDaptive": [
+            {
+                "Boeing": 133
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Bombardier": {
+        "adDaptive": [
+            {
+                "Bombardier": 443
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Borg Warner": {
+        "adDaptive": [
+            {
+                "Borg Warner TS": 20
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Boyd Gaming": {
+        "adDaptive": [
+            {
+                "Boyd Gaming": 283
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Bristol Myers Squibb": {
+        "adDaptive": [
+            {
+                "Bristol Myers Squibb": 100
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "British Medical Association": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Brookfield": {
+        "adDaptive": [
+            {
+                "Brookfield": 1627
+            },
+            {
+                "Brookfield -": 18
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Brown Brothers Harriman": {
+        "adDaptive": [
+            {
+                "Brown Brothers Harriman & Co.": 23612
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "BT": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "C&S Wholesale Grocers": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Caesar's Entertainment": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Canada Life": {
+        "adDaptive": [
+            {
+                "Canada Life": 27
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Canada Post": {
+        "adDaptive": [
+            {
+                "Canada Post": 22
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Canadian National": {
+        "adDaptive": [
+            {
+                "Canadian National": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Canadian Pacific Railway": {
+        "adDaptive": [
+            {
+                "Canadian Pacific Railway": 71
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Canadian Tire": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Capital One": {
+        "adDaptive": [
+            {
+                "Capital One": 533
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Car Max": {
+        "adDaptive": [
+            {
+                "Car Max": 22
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Cardinal Health": {
+        "adDaptive": [
+            {
+                "Cardinal Health": 345
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Catepillar": {
+        "adDaptive": [
+            {
+                "Caterpillar Inc.": 5189
+            },
+            {
+                "Catepillar": 590
+            },
+            {
+                "Caterpillar Inc": 179
+            },
+            {
+                "Caterpillar": 6
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Celanes": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "CenterPoint Energy": {
+        "adDaptive": [
+            {
+                "Centerpoint Energy": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "CGI": {
+        "adDaptive": [
+            {
+                "Cgi Federal": 999
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Charles Schwab": {
+        "adDaptive": [
+            {
+                "Charles Schwab": 1268
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Charles Schwab & Co.": 1
+            }
+        ]
+    },
+    "Charter Communications": {
+        "adDaptive": [
+            {
+                "Charter Communications": 178
+            },
+            {
+                "Charter Communications, ...": 43
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Chase": {
+        "adDaptive": [
+            {
+                "Chase & Chase": 156
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Chase bank": 1
+            }
+        ]
+    },
+    "Chemours": {
+        "adDaptive": [
+            {
+                "Chemours Canada Company (": 34
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Chevron": {
+        "adDaptive": [
+            {
+                "Chevron": 23835
+            },
+            {
+                "CHEVRON": 25
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Chevron Corporation": 1
+            }
+        ]
+    },
+    "China Investment": {
+        "adDaptive": [
+            {
+                "China Investment Corporation": 1664
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "CIBC": {
+        "adDaptive": [
+            {
+                "Cibc": 2
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Cigna": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Cisco": {
+        "adDaptive": [
+            {
+                "Cisco": 570
+            },
+            {
+                "CISCO": 26
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Cisco": 2
+            },
+            {
+                "Cisco": 1
+            },
+            {
+                "Cisco": 2
+            },
+            {
+                "Cisco": 1
+            },
+            {
+                "Cisco": 2
+            },
+            {
+                "Cisco": 2
+            },
+            {
+                "Cisco OpenDNS LLC": 1
+            },
+            {
+                "Cisco OpenDNS LLC": 2
+            },
+            {
+                "Cisco Systems, Inc.": 1
+            },
+            {
+                "Cisco Systems, Inc.": 2
+            }
+        ]
+    },
+    "Citi": {
+        "adDaptive": [
+            {
+                "Citi": 3065
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Citizens Financial Group": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Cleveland Clinic": {
+        "adDaptive": [
+            {
+                "Cleveland Clinic": 46
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "CNO Financial Group": {
+        "adDaptive": [
+            {
+                "Cno Financial Group, Inc.": 68
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Coca Cola": {
+        "adDaptive": [
+            {
+                "Coca Cola": 252
+            },
+            {
+                "Coca-Cola": 141
+            },
+            {
+                "Coca- Cola": 17
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Cognizant": {
+        "adDaptive": [
+            {
+                "Cognizant": 50
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Comcast": {
+        "adDaptive": [
+            {
+                "Comcast Comcast": 22
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Comerica Banl": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Commerzbank": {
+        "adDaptive": [
+            {
+                "Commerzbank AG": 46
+            },
+            {
+                "Commerzbank Aktiengesellschaft": 166
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Common Spirit (Dignity Health)": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Constellation Software": {
+        "adDaptive": [
+            {
+                "Constellation Software Inc": 7
+            },
+            {
+                "Constellation Software LLC": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Cooper Standard": {
+        "adDaptive": [
+            {
+                "Cooper Standard LLC": 268
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Costco": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Credit Suisse": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Cummins": {
+        "adDaptive": [
+            {
+                "Cummins & Cummins, LLC": 17
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "CVS Health": {
+        "adDaptive": [
+            {
+                "CVS/Health": 172
+            },
+            {
+                "CVS Health": 72
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Dana Corp": {
+        "adDaptive": [
+            {
+                "Dana Corp.": 2
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Danaher Corporation": {
+        "adDaptive": [
+            {
+                "Danaher Corporation": 343
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Danaher Corporation": 4
+            }
+        ]
+    },
+    "Davita": {
+        "adDaptive": [
+            {
+                "Davita": 1052
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "DEFRA": {
+        "adDaptive": [
+            {
+                "Defra, LLC": 6
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Dell": {
+        "adDaptive": [
+            {
+                "Dell": 41
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Delta Airlines ": {
+        "adDaptive": [
+            {
+                "Delta Airlines": 72
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Desajrdins": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Discount Tire": {
+        "adDaptive": [
+            {
+                "Discount Tire": 107
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Discover": {
+        "adDaptive": [
+            {
+                "Discover": 68
+            },
+            {
+                "Discover Financial Services": 85
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Dish Network": {
+        "adDaptive": [
+            {
+                "Dish Network": 31908
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Disney": {
+        "adDaptive": [
+            {
+                "Disney": 1565
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "DoJ": {
+        "adDaptive": [
+            {
+                "Doj": 13
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "DOW": {
+        "adDaptive": [
+            {
+                "Dow & Dow LLC": 74
+            },
+            {
+                "Dow & Dow, Inc.": 47
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Drax": {
+        "adDaptive": [
+            {
+                "Drax, Inc.": 57
+            },
+            {
+                "Drax, LLC": 9
+            },
+            {
+                "Drax Corp.": 5
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "DTE Energy": {
+        "adDaptive": [
+            {
+                "DTE Energy": 201
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Duff & Phelps": {
+        "adDaptive": [
+            {
+                "Duff & Phelps": 286
+            },
+            {
+                "Duff & Phelps Investment Management Co": 95
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Duke Energy": {
+        "adDaptive": [
+            {
+                "Duke Energy": 169
+            },
+            {
+                "Duke Energy Corporation": 2802
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Dupont": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "DWP": {
+        "adDaptive": [
+            {
+                "Dwp": 51
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "e3 Group": {
+        "adDaptive": [
+            {
+                "E3 Group": 2
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Eagle Strategies": {
+        "adDaptive": [
+            {
+                "Eagle Strategies": 77
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "eBay": {
+        "adDaptive": [
+            {
+                "Ebay": 6
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Ebay": 2
+            },
+            {
+                "eBay Inc": 1
+            }
+        ]
+    },
+    "ECO Labs": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "ED&F Man": {
+        "adDaptive": [
+            {
+                "ED&f Man Capital Markets Inc.": 1473
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "EDP": {
+        "adDaptive": [
+            {
+                "EDP LLC": 160
+            },
+            {
+                "EDP Inc": 117
+            },
+            {
+                "Edp, Inc.": 82
+            },
+            {
+                "Edp, LLC": 44
+            },
+            {
+                "EDP Group": 196
+            },
+            {
+                "EDP Stack": 34
+            },
+            {
+                "EDP Temps": 25
+            },
+            {
+                "EDP Soccer": 9
+            },
+            {
+                "Edp, Ltd.": 4
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Edward Jones": {
+        "adDaptive": [
+            {
+                "Edward Jones": 24401
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Eli Lilly": {
+        "adDaptive": [
+            {
+                "Eli Lilly and Company": 5433
+            },
+            {
+                "Eli Lilly Fcu": 8
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Emerson Electric": {
+        "adDaptive": [
+            {
+                "Emerson Electric": 6
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Enbridge": {
+        "adDaptive": [
+            {
+                "Enbridge": 69
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Encompass Health": {
+        "adDaptive": [
+            {
+                "Encompass Health": 342
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Entergy": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Equitable": {
+        "adDaptive": [
+            {
+                "Equitable LLC": 17
+            },
+            {
+                "Equitable Hotels": 226
+            },
+            {
+                "Equitable Bank": 146
+            },
+            {
+                "Equitable Technologies": 87
+            },
+            {
+                "Equitable Concepts": 87
+            },
+            {
+                "Equitable Solutions": 60
+            },
+            {
+                "Equitable Adjusters": 50
+            },
+            {
+                "Equitable Group": 24
+            },
+            {
+                "Equitable Realty": 23
+            },
+            {
+                "Equitable Transcription": 19
+            },
+            {
+                "Equitable Tech": 17
+            },
+            {
+                "Equitable Remodeling": 12
+            },
+            {
+                "Equitable Investors": 8
+            },
+            {
+                "Equitable Management": 7
+            },
+            {
+                "Equitable Ink": 6
+            },
+            {
+                "Equitable Gas": 3
+            },
+            {
+                "Equitable Investments": 2
+            },
+            {
+                "Equitable Imports": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Equitable Holdings": {
+        "adDaptive": [
+            {
+                "Equitable Holdings, Inc.": 1358
+            },
+            {
+                "Equitable Holdings LLC": 106
+            },
+            {
+                "Equitable Holdings, LLC": 42
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Erasmus University": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Excelon/Balt GE": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Expedia": {
+        "adDaptive": [
+            {
+                "Expedia": 2296
+            },
+            {
+                "Expedia Group": 97
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Expedia Inc.": 2
+            }
+        ]
+    },
+    "Experian": {
+        "adDaptive": [
+            {
+                "Experian": 412
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Experian": 11
+            }
+        ]
+    },
+    "ExxonMobil": {
+        "adDaptive": [
+            {
+                "Exxonmobil": 481
+            },
+            {
+                "EXXONMOBIL": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Facebook": {
+        "adDaptive": [
+            {
+                "Facebook": 5
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            },
+            {
+                "Facebook Ireland Ltd": 1
+            }
+        ]
+    },
+    "Fairfax Financial Holdings": {
+        "adDaptive": [
+            {
+                "Fairfax Financial Holdings Limited": 4368
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fannie Mae": {
+        "adDaptive": [
+            {
+                "Fannie Mae": 188
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Fanniemae": 2
+            }
+        ]
+    },
+    "Farmers Insurance": {
+        "adDaptive": [
+            {
+                "Farmers Insurance": 85792
+            },
+            {
+                "FARMERS INSURANCE": 1858
+            },
+            {
+                "Farmers Insurance Group": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fed EX": {
+        "adDaptive": [
+            {
+                "Fed. Ex.": 127
+            },
+            {
+                "Fed Ex": 19
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Federal Home Loan Bank of New York": {
+        "adDaptive": [
+            {
+                "Federal Home Loan Bank of New York": 3248
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Feds": {
+        "adDaptive": [
+            {
+                "Feds": 39
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fidelity": {
+        "adDaptive": [
+            {
+                "Fidelity": 4762
+            },
+            {
+                "Fidelity Investments": 2848
+            },
+            {
+                "Fidelity National Financial": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fidelty National": {
+        "adDaptive": [
+            {
+                "Fidelty National Title": 14
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fifth Third Bank": {
+        "adDaptive": [
+            {
+                "Fifth Third Bank": 83731
+            },
+            {
+                "Fifth Third Bank, National Association": 33
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "First American Financial": {
+        "adDaptive": [
+            {
+                "First American Financial": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "FISERV": {
+        "adDaptive": [
+            {
+                "Fiserv": 291
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Five Star Bank": {
+        "adDaptive": [
+            {
+                "Five Star Bank": 1699
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Flagstar": {
+        "adDaptive": [
+            {
+                "Flagstar Bank": 338
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Florida Power": {
+        "adDaptive": [
+            {
+                "Florida Power": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Flowserve": {
+        "adDaptive": [
+            {
+                "Flowserve": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "FMC": {
+        "adDaptive": [
+            {
+                "FMC": 31
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Ford Motor": {
+        "adDaptive": [
+            {
+                "Ford Motor": 262
+            },
+            {
+                "Ford Motor Company": 20236
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Ford Motor Company": 2
+            }
+        ]
+    },
+    "Fortis": {
+        "adDaptive": [
+            {
+                "Fortis": 242
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fox Entertainment": {
+        "adDaptive": [
+            {
+                "Fox Entertainment": 311
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Franklin Templeton/Legg": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Fresenius Medical Care North America": {
+        "adDaptive": [
+            {
+                "Fresenius Medical Care North America": 8145
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Freshfields": {
+        "adDaptive": [
+            {
+                "Freshfields Village": 11
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Fujitsu": {
+        "adDaptive": [
+            {
+                "Fujitsu": 1
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Fujitsu America Inc.": 6
+            }
+        ]
+    },
+    "Gap": {
+        "adDaptive": [
+            {
+                "Gap Inc": 264
+            },
+            {
+                "Gap Inc.": 119
+            },
+            {
+                "Gap, Inc.": 96
+            },
+            {
+                "Gap": 53
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Gap Inc": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Gateway Health": {
+        "adDaptive": [
+            {
+                "Gateway Health": 18
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "GDMS": {
+        "adDaptive": [
+            {
+                "Gdms": 42
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "GE Capital": {
+        "adDaptive": [
+            {
+                "GE Capital": 2217
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Geico": {
+        "adDaptive": [
+            {
+                "Geico": 1535
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Geisinger Health": {
+        "adDaptive": [
+            {
+                "Geisinger Health": 1835
+            },
+            {
+                "GEISINGER HEALTH": 218
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "General Atomics": {
+        "adDaptive": [
+            {
+                "General Atomics": 607
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "General Atomics": 1
+            }
+        ]
+    },
+    "General Electric": {
+        "adDaptive": [
+            {
+                "General Electric": 49
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "General Mills": {
+        "adDaptive": [
+            {
+                "General Mills": 50
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "General Motors": {
+        "adDaptive": [
+            {
+                "General Motors Co. (general Motors)": 1536
+            },
+            {
+                "General Motors Financial Company, Inc.": 74
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Genesys": {
+        "adDaptive": [
+            {
+                "Genesys": 304
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Genuine Parts": {
+        "adDaptive": [
+            {
+                "Genuine Parts": 495
+            },
+            {
+                "Genuine Parts Company": 22284
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Genworth": {
+        "adDaptive": [
+            {
+                "Genworth": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Godaddy": {
+        "adDaptive": [
+            {
+                "Godaddy": 278
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Goldman Sachs": {
+        "adDaptive": [
+            {
+                "Goldman Sachs Trust": 669
+            },
+            {
+                "Goldman Sachs Foundation": 641
+            },
+            {
+                "Goldman Sachs International": 627
+            },
+            {
+                "Goldman, Sachs & Co.": 327
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Google": {
+        "adDaptive": [
+            {
+                "Google": 473
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Great West Life": {
+        "adDaptive": [
+            {
+                "Great West Life": 24
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Greystone": {
+        "adDaptive": [
+            {
+                "Greystone": 737
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Guardian Insurance": {
+        "adDaptive": [
+            {
+                "Guardian Insurance": 203
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Halliburton": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Hasbro Inc": {
+        "adDaptive": [
+            {
+                "Hasbro, Inc.": 442
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "HCA Healthcare": {
+        "adDaptive": [
+            {
+                "HCA Healthcare": 128
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Highmark": {
+        "adDaptive": [
+            {
+                "Highmark Health": 324
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Home Credit": {
+        "adDaptive": [
+            {
+                "Home Credit - US": 13
+            },
+            {
+                "Home Credit Corporation": 124
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Hometown Financial Group": {
+        "adDaptive": [
+            {
+                "Hometown Financial Group LLC": 106
+            },
+            {
+                "Hometown Financial Group, Inc.": 28
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Honeywell": {
+        "adDaptive": [
+            {
+                "Honeywell": 3722
+            },
+            {
+                "Honeywell Intelligrated": 82
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "HP": {
+        "adDaptive": [
+            {
+                "HP Inc.": 2182
+            },
+            {
+                "Hp, Inc.": 395
+            },
+            {
+                "HP Inc": 91
+            },
+            {
+                "HP HP": 27
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Huntington Bancshares": {
+        "adDaptive": [
+            {
+                "Huntington Bancshares Inc": 221
+            },
+            {
+                "Huntington Bancshares Inc.": 71
+            },
+            {
+                "Huntington Bancshares, Inc.": 5
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Huntington Bancshares Inc.": 2
+            }
+        ]
+    },
+    "Hydro One": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "iHeart Media": {
+        "adDaptive": [
+            {
+                "Iheart Media": 283
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Industrial Alliance": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "ING": {
+        "adDaptive": [
+            {
+                "Ing": 118
+            },
+            {
+                "Ing Group": 77
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Intact Insurance": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Intermountain Health": {
+        "adDaptive": [
+            {
+                "Intermountain Health Center": 115
+            },
+            {
+                "Intermountain Health Centers": 10
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Irving": {
+        "adDaptive": [
+            {
+                "Irving & Irving, LLC": 6
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "iSOC24": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "J2": {
+        "adDaptive": [
+            {
+                "J2, L.L.C. J2": 3
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Jabil": {
+        "adDaptive": [
+            {
+                "Jabil": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Jefferies": {
+        "adDaptive": [
+            {
+                "Jefferies & Jefferies": 9
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "John Deere": {
+        "adDaptive": [
+            {
+                "John Deere": 62
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "John Hancock": {
+        "adDaptive": [
+            {
+                "John Hancock": 1182
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Johnson & Johnson": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "JPMorgan Chase": {
+        "adDaptive": [
+            {
+                "Jpmorgan Chase": 11
+            },
+            {
+                "Jpmorgan Chase & Co.": 20745
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "JPMorgan Chase & Co.": 1
+            },
+            {
+                "JPMorgan Chase & Co.": 2
+            }
+        ]
+    },
+    "KBC Group": {
+        "adDaptive": [
+            {
+                "Kbc Group Inc.": 248
+            },
+            {
+                "Kbc Group, LLC": 21
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Keybank": {
+        "adDaptive": [
+            {
+                "Keybank": 430
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Kinder Morgan": {
+        "adDaptive": [
+            {
+                "Kinder Morgan Inc": 2481
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Kinder Morgan": 2
+            }
+        ]
+    },
+    "KKR": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Konica Minolta Business\u00a0": {
+        "adDaptive": [
+            {
+                "Konica Minolta Business Solutions": 108
+            },
+            {
+                "Konica Minolta Business Warehouse": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "KP": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "LabCorp": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Laurentian Bank": {
+        "adDaptive": [
+            {
+                "Laurentian Bank of Canada": 4709
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Lear": {
+        "adDaptive": [
+            {
+                "Lear & Lear LLP": 91
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Levi Strauss & Co.": {
+        "adDaptive": [
+            {
+                "Levi Strauss & Co.": 5747
+            },
+            {
+                "Levi Strauss Co": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Liberty Mutual Insurance": {
+        "adDaptive": [
+            {
+                "Liberty Mutual Insurance": 2433
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "LifeLabs": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Lithia Motors": {
+        "adDaptive": [
+            {
+                "Lithia Motors, Inc.": 5152
+            },
+            {
+                "Lithia Motors Inc": 4
+            },
+            {
+                "Lithia Motors Amphitheater": 29
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Loblaw": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "London Metal Exchange": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "LuLu Lemon": {
+        "adDaptive": [
+            {
+                "Lulu Lemon Athletica USA Inc": 32
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Lumen": {
+        "adDaptive": [
+            {
+                "Lumen": 600
+            },
+            {
+                "Lumen Technologies, Inc.": 41473
+            },
+            {
+                "Lumen Technologies Inc": 12
+            },
+            {
+                "Lumen Technologies Inc.": 11
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "LV Sands": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "M&T Bank": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "MAGNA International": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Manulife": {
+        "adDaptive": [
+            {
+                "Manulife": 468
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Marathon Petroleum": {
+        "adDaptive": [
+            {
+                "Marathon Petroleum": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Marriott": {
+        "adDaptive": [
+            {
+                "Marriott": 12026
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Marsh & McLennan Companies": {
+        "adDaptive": [
+            {
+                "Marsh McLennan Companies": 278
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "MassMutual": {
+        "adDaptive": [
+            {
+                "Massmutual": 197
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Mastercard": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Maximus": {
+        "adDaptive": [
+            {
+                "Maximus": 1493
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Medstar": {
+        "adDaptive": [
+            {
+                "Medstar": 60
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Merrill": {
+        "adDaptive": [
+            {
+                "Merrill & Merrill Inc": 61
+            },
+            {
+                "Merrill & Merrill Insurance": 41
+            },
+            {
+                "Merrill & Merrill Ltd": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Met Police ": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "MGM Resorts International": {
+        "adDaptive": [
+            {
+                "MGM Resorts International": 2498
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Microchip Technologies": {
+        "adDaptive": [
+            {
+                "Microchip Technology": 13
+            },
+            {
+                "Microchip Technologies Solutions LLC": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Micron": {
+        "adDaptive": [
+            {
+                "Micron Technology, Inc.": 2180
+            },
+            {
+                "Micron Technology LLC": 391
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Microsoft": {
+        "adDaptive": [
+            {
+                "Microsoft": 49
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Microsoft": 1
+            }
+        ]
+    },
+    "Ministry of Justice": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Mirae Asset Global Investments": {
+        "adDaptive": [
+            {
+                "Mirae Asset Global Investments (usa) LLC": 7138
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Mizuho Bank": {
+        "adDaptive": [
+            {
+                "Mizuho Bank Ltd": 258
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "MoD": {
+        "adDaptive": [
+            {
+                "Mod": 96
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Morgan Stanley": {
+        "adDaptive": [
+            {
+                "Morgan Stanley": 25008
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Morganstanley": 1
+            },
+            {
+                "Morganstanley": 1
+            },
+            {
+                "Morganstanley": 2
+            },
+            {
+                "Morganstanley": 1
+            },
+            {
+                "Morganstanley": 1
+            },
+            {
+                "Morganstanley": 3
+            }
+        ]
+    },
+    "Motorola": {
+        "adDaptive": [
+            {
+                "Motorola": 116
+            },
+            {
+                "Motorola Solutions": 6
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Motorola Solutions": 2
+            },
+            {
+                "Motorola Solutions": 1
+            }
+        ]
+    },
+    "Mt Sinai": {
+        "adDaptive": [
+            {
+                "Mt Sinai": 318
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "MUFG Americas": {
+        "adDaptive": [
+            {
+                "Mufg Americas Leasing Corporation": 488
+            },
+            {
+                "Mufg Americas Holdings Corporation": 264
+            },
+            {
+                "Mufg Americas Holdings Corp": 117
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "MvD": {
+        "adDaptive": [
+            {
+                "Mvd": 18
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "NAI Global": {
+        "adDaptive": [
+            {
+                "Nai Global": 952
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Nanova": {
+        "adDaptive": [
+            {
+                "Nanova Inc.": 6
+            },
+            {
+                "Nanova Corporation": 48
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Nasdaq": {
+        "adDaptive": [
+            {
+                "Nasdaq, Inc.": 26241
+            },
+            {
+                "Nasdaq Ltd": 29
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "National Bank of Canada": {
+        "adDaptive": [
+            {
+                "National Bank of Canada": 3235
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "NATO": {
+        "adDaptive": [
+            {
+                "Nato Inc.": 80
+            },
+            {
+                "Nato, LLC": 70
+            },
+            {
+                "Nato LLC": 28
+            },
+            {
+                "Nato Inc": 8
+            },
+            {
+                "Nato, Ltd.": 19
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Navy Fed CU": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Navy Federal Credit Union (NFCU)": {
+        "adDaptive": [
+            {
+                "Navy Federal Credit Union": 11187
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "New York Stock Exchange": {
+        "adDaptive": [
+            {
+                "New York Stock Exchange LLC": 3121
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "NHS": {
+        "adDaptive": [
+            {
+                "Nhs": 23
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Nike": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Nissan Motors": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Nordstrom": {
+        "adDaptive": [
+            {
+                "Nordstrom, Inc.": 52352
+            },
+            {
+                "Nordstrom Construction": 143
+            },
+            {
+                "Nordstrom Service": 56
+            },
+            {
+                "Nordstrom Remodeling": 40
+            },
+            {
+                "Nordstrom Metal": 26
+            },
+            {
+                "Nordstrom & Locke": 18
+            },
+            {
+                "Nordstrom Rack": 16
+            },
+            {
+                "Nordstrom Valves": 5
+            },
+            {
+                "Nordstrom Associates": 4
+            },
+            {
+                "Nordstrom Williams": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "NOV": {
+        "adDaptive": [
+            {
+                "Nov": 28
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Nova Scotia Power": {
+        "adDaptive": [],
+        "LeadFeeder": [
+            {
+                "Nova Scotia Power": 2
+            },
+            {
+                "Nova Scotia Power": 5
+            },
+            {
+                "Nova Scotia Power": 2
+            }
+        ]
+    },
+    "Nuvias": {
+        "adDaptive": [
+            {
+                "Nuvias Cleaning LLC": 26
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "NXP": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Oak Hill Capital": {
+        "adDaptive": [
+            {
+                "Oak Hill Capital, LLC": 62
+            },
+            {
+                "Oak Hill Capital Corp": 42
+            },
+            {
+                "Oak Hill Capital LLC": 25
+            },
+            {
+                "Oak Hill Capital Corporation": 513
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Occidental ": {
+        "adDaptive": [
+            {
+                "Occidental": 191
+            },
+            {
+                "Occidental Petroleum Corporation": 693
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "On Semi": {
+        "adDaptive": [],
+        "LeadFeeder": [
+            {
+                "ONSEMI": 7
+            }
+        ]
+    },
+    "One Main Financial": {
+        "adDaptive": [
+            {
+                "One Main Financial": 29551
+            },
+            {
+                "Onemain Financial": 120
+            },
+            {
+                "ONE MAIN FINANCIAL": 54
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "OpenText": {
+        "adDaptive": [
+            {
+                "Opentext": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Oracle": {
+        "adDaptive": [
+            {
+                "Oracle": 1714
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Pacific Gas and Electric": {
+        "adDaptive": [
+            {
+                "Pacific Gas and Electric Company": 7497
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Parker": {
+        "adDaptive": [
+            {
+                "Parker & Parker": 63
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Parkland Fuel": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "PayPal": {
+        "adDaptive": [
+            {
+                "Paypal": 1294
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "PBI Group": {
+        "adDaptive": [
+            {
+                "Pbi Group": 4
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Permira": {
+        "adDaptive": [
+            {
+                "Permira Advisers LLC": 712
+            },
+            {
+                "Permira Construction LLC": 308
+            },
+            {
+                "Permira Realty, LLC": 7
+            },
+            {
+                "Permira Construction, LLC": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "PetCo": {
+        "adDaptive": [
+            {
+                "Petco": 141
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "PetSmart": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Pfizer": {
+        "adDaptive": [
+            {
+                "Pfizer": 2066
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Power Corporation": {
+        "adDaptive": [
+            {
+                "Power Corporation": 42
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Pricipal Financial": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Prime Health Care": {
+        "adDaptive": [
+            {
+                "Prime Health Care": 18
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Prime Health Care": 4
+            }
+        ]
+    },
+    "Proctor & Gamble": {
+        "adDaptive": [
+            {
+                "Proctor & Gamble": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Progressive Insurance": {
+        "adDaptive": [
+            {
+                "Progressive Insurance": 2515
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Providence Health": {
+        "adDaptive": [
+            {
+                "Providence Health": 31
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "PwC": {
+        "adDaptive": [
+            {
+                "PWC": 1333
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Pwc": 8
+            },
+            {
+                "Pwc": 1
+            },
+            {
+                "Pwc": 4
+            },
+            {
+                "Pwc": 5
+            },
+            {
+                "Pwc": 4
+            },
+            {
+                "Pwc": 4
+            },
+            {
+                "Pwc": 6
+            },
+            {
+                "Pwc": 4
+            },
+            {
+                "Pwc": 4
+            },
+            {
+                "Pwc": 2
+            }
+        ]
+    },
+    "Raytheon Technologies": {
+        "adDaptive": [
+            {
+                "Raytheon Technologies Corporation": 2591
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "RBC": {
+        "adDaptive": [
+            {
+                "Rbc": 242
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "RBS": {
+        "adDaptive": [
+            {
+                "Rbs LLC": 1531
+            },
+            {
+                "Rbs, Inc.": 91
+            },
+            {
+                "Rbs, LLC": 81
+            },
+            {
+                "Rbs Inc": 1
+            },
+            {
+                "Rbs Express": 1610
+            },
+            {
+                "Rbs Corp.": 367
+            },
+            {
+                "Rbs League": 154
+            },
+            {
+                "Rbs Tech": 55
+            },
+            {
+                "Rbs Pitstop": 18
+            },
+            {
+                "Rbs Repairs": 15
+            },
+            {
+                "Rbs Genco": 14
+            },
+            {
+                "Rbs Venture": 2
+            },
+            {
+                "Rbs Corp": 2
+            },
+            {
+                "Rbs Limited": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Regions Bank": {
+        "adDaptive": [
+            {
+                "Regions Bank": 37415
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Restaurant Brands International": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Rock Central": {
+        "adDaptive": [
+            {
+                "Rock Central LLC": 538
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Rogers": {
+        "adDaptive": [
+            {
+                "Rogers & Rogers": 76
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "S&P Global": {
+        "adDaptive": [
+            {
+                "S&P Global Inc.": 7445
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Safeway / Albertson's": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "salesforce.com": {
+        "adDaptive": [],
+        "LeadFeeder": [
+            {
+                "Salesforce.com, inc.": 8
+            },
+            {
+                "Salesforce.com, inc.": 1
+            },
+            {
+                "Salesforce.com, inc.": 2
+            }
+        ]
+    },
+    "Sallie Mae": {
+        "adDaptive": [
+            {
+                "Sallie Mae": 74
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "San Diego Gas and Electric": {
+        "adDaptive": [
+            {
+                "San Diego Gas and Electric Co Medical Benefits Plan Trust Non-Union Ret": 246
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Santander Bank": {
+        "adDaptive": [
+            {
+                "Santander Bank": 1755
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Saputo": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Schroders": {
+        "adDaptive": [
+            {
+                "Schroders Investment Management": 220
+            },
+            {
+                "Schroders Automotive Tech": 24
+            },
+            {
+                "Schroders Consulting LLC": 19
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Schwab": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Sci Games": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Scotia Gas Networks": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Scotiabank": {
+        "adDaptive": [
+            {
+                "Scotiabank": 14
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "SEI": {
+        "adDaptive": [
+            {
+                "SEI": 671
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "SG CIB's": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "SH LLP": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Sharp Health": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Shaw Communications": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Shopify": {
+        "adDaptive": [
+            {
+                "Shopify": 43
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "SignPost Six": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Societe Generale": {
+        "adDaptive": [
+            {
+                "Societe Generale": 1092
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Softcat": {
+        "adDaptive": [
+            {
+                "Softcat US LLC": 46
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Sony Pictures Entertainment": {
+        "adDaptive": [
+            {
+                "Sony Pictures Entertainment, Inc.": 531
+            },
+            {
+                "Sony Pictures Entertainment Inc.": 159
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Southwest Airlines": {
+        "adDaptive": [
+            {
+                "Southwest Airlines": 9
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Spectrum": {
+        "adDaptive": [
+            {
+                "Spectrum": 9519
+            },
+            {
+                "SPECTRUM": 4
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Standard Bank": {
+        "adDaptive": [
+            {
+                "Standard Bank": 7
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Standard Chartered Bank": {
+        "adDaptive": [
+            {
+                "Standard Chartered Bank": 1791
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Stanley Black & Decker": {
+        "adDaptive": [
+            {
+                "Stanley Black & Decker": 312
+            },
+            {
+                "Stanley Black Decker": 22
+            },
+            {
+                "Stanley BLAck&decker": 17
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Starbucks": {
+        "adDaptive": [
+            {
+                "Starbucks": 140390
+            },
+            {
+                "Starbucks Corporation": 6157
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "State Farm": {
+        "adDaptive": [
+            {
+                "State Farm": 24154
+            },
+            {
+                "STATE FARM": 52
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "State of Connecticut": {
+        "adDaptive": [
+            {
+                "State of Connecticut": 262
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "State Street": {
+        "adDaptive": [
+            {
+                "State Street LLC": 567
+            },
+            {
+                "State Street Tap": 310
+            },
+            {
+                "State Street Inn": 125
+            },
+            {
+                "State Street Tax": 97
+            },
+            {
+                "State Street, LLC": 82
+            },
+            {
+                "State Street Bar": 68
+            },
+            {
+                "State Street Pub": 52
+            },
+            {
+                "State Street, L.L.C.": 10
+            },
+            {
+                "State Street Corporation": 13433
+            },
+            {
+                "State Street Barbers": 2326
+            },
+            {
+                "State Street Kitchen": 1575
+            },
+            {
+                "State Street Brats": 1187
+            },
+            {
+                "State Street Gallery": 749
+            },
+            {
+                "State Street School": 606
+            },
+            {
+                "State Street Studios": 553
+            },
+            {
+                "State Street House": 553
+            },
+            {
+                "STATE STREET STUDIOS": 472
+            },
+            {
+                "State Street Grill": 380
+            },
+            {
+                "State Street Laundry": 365
+            },
+            {
+                "State Street Auto": 362
+            },
+            {
+                "State Street Grocery": 355
+            },
+            {
+                "State Street Tattoo": 338
+            },
+            {
+                "State Street Arco": 300
+            },
+            {
+                "State Street Ballet": 296
+            },
+            {
+                "State Street Pawn": 293
+            },
+            {
+                "State Street Group": 284
+            },
+            {
+                "State Street Restaurant": 273
+            },
+            {
+                "State Street Diner": 267
+            },
+            {
+                "State Street Styles": 266
+            },
+            {
+                "State Street Marketplacelabbe775": 257
+            },
+            {
+                "State Street Motors": 250
+            },
+            {
+                "State Street Dental": 246
+            },
+            {
+                "State Street Penn": 242
+            },
+            {
+                "State Street Coffee": 240
+            },
+            {
+                "State Street Cafe": 192
+            },
+            {
+                "State Street Flats": 189
+            },
+            {
+                "State Street Apartments": 189
+            },
+            {
+                "State Street Station": 188
+            },
+            {
+                "State Street Liquors": 165
+            },
+            {
+                "State Street Salon": 161
+            },
+            {
+                "State Street Chriopractic": 156
+            },
+            {
+                "State Street Consortium": 150
+            },
+            {
+                "State Street Storage": 143
+            },
+            {
+                "State Street Developers": 133
+            },
+            {
+                "State Street Partners": 131
+            },
+            {
+                "State Street Properties": 128
+            },
+            {
+                "State Street Deli": 127
+            },
+            {
+                "State Street Collision": 126
+            },
+            {
+                "State Street Church": 117
+            },
+            {
+                "State Street Elementary": 110
+            },
+            {
+                "State Street Boutique": 99
+            },
+            {
+                "State Street Spirits": 99
+            },
+            {
+                "State Street Winery": 97
+            },
+            {
+                "State Street Manageme": 94
+            },
+            {
+                "State Street Sales": 87
+            },
+            {
+                "State Street Entertainment": 85
+            },
+            {
+                "State Street Square": 74
+            },
+            {
+                "State Street Barbershop": 73
+            },
+            {
+                "State Street Saloon": 69
+            },
+            {
+                "State Street Architects": 66
+            },
+            {
+                "State Street Realty": 56
+            },
+            {
+                "State Street Strategies": 54
+            },
+            {
+                "State Street Barbeque": 51
+            },
+            {
+                "State Street Gasoline": 51
+            },
+            {
+                "State Street Associates": 50
+            },
+            {
+                "State Street Exxon": 48
+            },
+            {
+                "State Street Antiques": 47
+            },
+            {
+                "State Street Supermarket": 43
+            },
+            {
+                "State Street Honey": 41
+            },
+            {
+                "State Street Liquor": 35
+            },
+            {
+                "STATE STREET NETWORKS": 34
+            },
+            {
+                "State Street Furniture": 34
+            },
+            {
+                "State Street Restoration": 33
+            },
+            {
+                "State Street Chiropractic": 27
+            },
+            {
+                "State Street Pizza": 26
+            },
+            {
+                "State Street Academy": 21
+            },
+            {
+                "State Street Pilates": 21
+            },
+            {
+                "State Street Photography": 18
+            },
+            {
+                "State Street Notary": 17
+            },
+            {
+                "State Street Advisers": 15
+            },
+            {
+                "State Street Scissors": 12
+            },
+            {
+                "State Street Pawfitters": 11
+            },
+            {
+                "State Street Investments": 10
+            },
+            {
+                "State Street Automotive": 9
+            },
+            {
+                "State Street Stuff": 6
+            },
+            {
+                "State Street Florist": 6
+            },
+            {
+                "State Street Lube": 5
+            },
+            {
+                "State Street Products": 5
+            },
+            {
+                "State Street Corp.": 3
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Stryker": {
+        "adDaptive": [
+            {
+                "Stryker": 126
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Suncor": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Sunlife Financial": {
+        "adDaptive": [
+            {
+                "Sunlife Financial": 215
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Sutter Health": {
+        "adDaptive": [
+            {
+                "Sutter Health": 6097
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Synchrony Financial": {
+        "adDaptive": [
+            {
+                "Synchrony Financial": 1291
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "T. Rowe Price": {
+        "adDaptive": [
+            {
+                "T. Rowe Price": 21
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TC Energy": {
+        "adDaptive": [
+            {
+                "Tc Energy": 283
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TD": {
+        "adDaptive": [
+            {
+                "Td & Td LLC": 20
+            },
+            {
+                "Td Td, LLC": 3
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TD Ameritrade": {
+        "adDaptive": [
+            {
+                "Td Ameritrade": 280
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TELCEL": {
+        "adDaptive": [
+            {
+                "Telcel": 29
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Telus": {
+        "adDaptive": [
+            {
+                "Telus": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Temple University": {
+        "adDaptive": [
+            {
+                "Temple University": 315
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Terra Firma": {
+        "adDaptive": [
+            {
+                "Terra Firma": 222
+            },
+            {
+                "Terra-Firma": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Tesla": {
+        "adDaptive": [
+            {
+                "Tesla": 350
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "The Blackstone Group": {
+        "adDaptive": [
+            {
+                "The Blackstone Group": 62
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "The Hartford": {
+        "adDaptive": [
+            {
+                "The Hartford": 617
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "The Hartford Financial Services Group": {
+        "adDaptive": [
+            {
+                "The Hartford Financial Services Group Inc": 1581
+            },
+            {
+                "The Hartford Financial Services Group In": 5
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "The Kraft Group": {
+        "adDaptive": [
+            {
+                "The Kraft Group Inc": 18
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "The Olayan Group": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Thermo Fisher Scientific": {
+        "adDaptive": [],
+        "LeadFeeder": [
+            {
+                "ThermoFisher Scientific": 1
+            }
+        ]
+    },
+    "Thomson Reuters": {
+        "adDaptive": [
+            {
+                "Thomson Reuters": 1341
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TIAA": {
+        "adDaptive": [
+            {
+                "Tiaa": 848
+            },
+            {
+                "Tiaa Bank": 215
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TJX Companies": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "T-Mobile": {
+        "adDaptive": [
+            {
+                "T-Mobile": 62054
+            },
+            {
+                "T-MOBILE": 9
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "TMX": {
+        "adDaptive": [
+            {
+                "Tmx": 25
+            },
+            {
+                "Tmx Group, LLC": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Toronto District School Board": {
+        "adDaptive": [
+            {
+                "Toronto District School Board": 2481
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Toyoda Gosei": {
+        "adDaptive": [
+            {
+                "Toyoda Gosei": 1
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Travelers": {
+        "adDaptive": [
+            {
+                "Travelers": 1391
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Truist": {
+        "adDaptive": [
+            {
+                "Truist, LLC": 32
+            },
+            {
+                "Truist Bank": 87444
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Truist Securities": 2
+            }
+        ]
+    },
+    "Turkish DoD": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "U.S. Trust": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Uber": {
+        "adDaptive": [
+            {
+                "Uber": 11671
+            },
+            {
+                "UBER": 561
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "UMMS": {
+        "adDaptive": [
+            {
+                "Umms Foundation": 176
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "UNFI": {
+        "adDaptive": [
+            {
+                "Unfi": 58
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Unisys": {
+        "adDaptive": [
+            {
+                "Unisys": 27
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "United Airlines": {
+        "adDaptive": [
+            {
+                "United Airlines": 868
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "United Health ": {
+        "adDaptive": [
+            {
+                "United Healthcare": 1611
+            },
+            {
+                "United Health": 5
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "United States Postal Service": {
+        "adDaptive": [
+            {
+                "United States Postal Service": 630012
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "United States Postal Service.": 2
+            }
+        ]
+    },
+    "Universal Health Services": {
+        "adDaptive": [
+            {
+                "Universal Health Services": 152
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "UPS": {
+        "adDaptive": [
+            {
+                "UPS Inc. - UPS": 69
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "US Banc Corp.": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "USAA": {
+        "adDaptive": [
+            {
+                "USAA": 102
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "USAA": 2
+            }
+        ]
+    },
+    "Valero ": {
+        "adDaptive": [
+            {
+                "Valero": 13446
+            },
+            {
+                "VALERO": 25
+            },
+            {
+                "Valeo": 21
+            },
+            {
+                "Valero.": 6
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Vanguard": {
+        "adDaptive": [
+            {
+                "Vanguard": 427
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Verizon": {
+        "adDaptive": [
+            {
+                "Verizon": 2922
+            },
+            {
+                "Verizon Media": 15
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Victorius Crew": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Visa": {
+        "adDaptive": [
+            {
+                "Visa": 10
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "W Hotels Worldwide": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    },
+    "Walmart": {
+        "adDaptive": [],
+        "LeadFeeder": [
+            {
+                "Wal-Mart Stores Inc.": 2
+            }
+        ]
+    },
+    "Wayfair": {
+        "adDaptive": [
+            {
+                "Wayfair": 16
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Wells Fargo": {
+        "adDaptive": [
+            {
+                "Wells Fargo": 1856
+            },
+            {
+                "WELLS FARGO": 1
+            }
+        ],
+        "LeadFeeder": [
+            {
+                "Wellsfsrgo": 6
+            },
+            {
+                "Wellsfsrgo": 5
+            }
+        ]
+    },
+    "West Pharmaceutical Services": {
+        "adDaptive": [
+            {
+                "West Pharmaceutical Services, Inc.": 278
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Western Digital": {
+        "adDaptive": [
+            {
+                "Western Digital": 37
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Western Union": {
+        "adDaptive": [
+            {
+                "Western Union": 22415
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Whirlpool": {
+        "adDaptive": [
+            {
+                "Whirlpool": 353
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "WL Gore": {
+        "adDaptive": [
+            {
+                "Wl Gore & Assoc": 36
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Wynn Resorts": {
+        "adDaptive": [
+            {
+                "Wynn Resorts, Limited": 118
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "XPO Logistics": {
+        "adDaptive": [
+            {
+                "Xpo Logistics, Inc.": 8275
+            },
+            {
+                "Xpo Logistics Inc": 581
+            },
+            {
+                "Xpo Logistics": 213
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "ZCG": {
+        "adDaptive": [
+            {
+                "Zcg, LLC": 24
+            },
+            {
+                "Zcg LLC": 21
+            },
+            {
+                "Zcg, Inc.": 12
+            },
+            {
+                "Zcg, Llc.": 2
+            },
+            {
+                "Zcg Group": 29
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Zimmer Biomet": {
+        "adDaptive": [
+            {
+                "Zimmer Biomet": 123
+            }
+        ],
+        "LeadFeeder": []
+    },
+    "Zions Banc": {
+        "adDaptive": [],
+        "LeadFeeder": []
+    }
+}
