@@ -1,0 +1,2866 @@
+{
+    "Matched Companies": [
+        "MASON DISTRICT HOSPITAL",
+        "ERIE COUNTY MEDICAL CENTER",
+        "SAINT MARYS HOSPITAL",
+        "UNIVERSITY OF MISSOURI HOSPITAL & CLINICS",
+        "ST ALEXIUS MEDICAL CENTER",
+        "JOHNSON MEMORIAL HOSPITAL",
+        "ST JAMES MERCY HOSPITAL",
+        "READING HOSPITAL",
+        "ST MARY MEDICAL CENTER INC",
+        "METHODIST HOSPITALS INC",
+        "ST JOSEPH'S HOSPITAL",
+        "BOONE COUNTY HOSPITAL",
+        "SAINT VINCENT HOSPITAL",
+        "UNITED HEALTH SERVICES HOSPITALS, INC",
+        "COLUMBIA MEMORIAL HOSPITAL",
+        "WINNESHIEK MEDICAL CENTER",
+        "ST FRANCIS HOSPITAL & MEDICAL CENTER",
+        "ST VINCENT CHARITY MEDICAL CENTER",
+        "PUTNAM COUNTY HOSPITAL",
+        "RIVER HOSPITAL, INC",
+        "ST JOSEPH MERCY HOSPITAL",
+        "THE MONROE CLINIC",
+        "ST JOHNS HOSPITAL",
+        "UNIVERSITY OF MICHIGAN HEALTH SYSTEM",
+        "ST LUKE'S HOSPITAL",
+        "GIBSON COMMUNITY HOSPITAL",
+        "MERCY REGIONAL MEDICAL CENTER",
+        "ST RITA'S MEDICAL CENTER",
+        "NICHOLAS H NOYES MEMORIAL HOSPITAL",
+        "UNIVERSITY OF ILLINOIS HOSPITAL",
+        "MOUNT NITTANY MEDICAL CENTER",
+        "UNITY HOSPITAL",
+        "MEMORIAL HOSPITAL",
+        "CUYUNA REGIONAL MEDICAL CENTER",
+        "CLARK MEMORIAL HOSPITAL",
+        "ENDLESS MOUNTAINS HEALTH SYSTEMS",
+        "WEIRTON MEDICAL CENTER",
+        "ST MARY'S HEALTHCARE",
+        "SWEDISH AMERICAN HOSPITAL",
+        "ST PETER'S HOSPITAL",
+        "ST MARYS HOSPITAL",
+        "LUTHERAN HOSPITAL",
+        "COMMUNITY HOSPITAL",
+        "UNIVERSITY OF WI  HOSPITALS & CLINICS AUTHORITY",
+        "GUNDERSEN LUTHERAN MEDICAL CENTER",
+        "NORTHWEST COMMUNITY HOSPITAL 1",
+        "ST MARY MEDICAL CENTER",
+        "ST VINCENT HEALTHCARE",
+        "HUNT REGIONAL MEDICAL CENTER",
+        "BELOIT HEALTH SYSTEM",
+        "MEMORIAL HEALTHCARE",
+        "LOYOLA UNIVERSITY MEDICAL CENTER",
+        "SAINT ANTHONY HOSPITAL",
+        "SARAH BUSH LINCOLN HEALTH CENTER",
+        "CLAXTON-HEPBURN MEDICAL CENTER",
+        "ST MARY MERCY HOSPITAL",
+        "WHITE PLAINS HOSPITAL CENTER",
+        "ST JOSEPH MEDICAL CENTER",
+        "ST JOHN MEDICAL CENTER",
+        "NaN"
+    ],
+    "Unmatched Companies": {
+        "HENRY FORD MACOMB HOSPITAL": [
+            "Nagina Aslam",
+            "Parag Patel",
+            "Mubina Khan",
+            "Rim Kreit",
+            "Ernesto Lao",
+            "Donald Muir",
+            "Amy Kopp",
+            "Belsam Saif-Kosho",
+            "Peter Salvia",
+            "William Barker",
+            "Sima Salman",
+            "Grant Lange",
+            "Monika Ochani",
+            "Katherine Jackson",
+            "Denise Jabbour",
+            "Christina Blake"
+        ],
+        "WEST SUBURBAN MEDICAL CENTER": [
+            "Keri Fair",
+            "Jessica McIntyre",
+            "Michele Carlon",
+            "Wendy Foster",
+            "Janis Wiener"
+        ],
+        "WILKES-BARRE GENERAL HOSPITAL": [
+            "Paul Rutkowski",
+            "Jurgen Straub",
+            "Michael Rogan",
+            "Scott Sterling",
+            "James Jiunta",
+            "Michael Jalowiec",
+            "Patrick Murnin",
+            "Yasser Khalil",
+            "Darlene Dunay",
+            "James Galasso",
+            "Mark Murnin",
+            "Essam Almeky",
+            "Giovanni Ramos",
+            "Samir Pancholy",
+            "Nicholas Dodge",
+            "Louis Kareha",
+            "Tracey Galardi",
+            "Stanley Lobitz",
+            "Irene Lucas",
+            "Kurt Moran",
+            "Diane Ciaglia",
+            "Charles Manganiello",
+            "Mary Sokach",
+            "Eugene Gorski",
+            "Elizabeth Gernhardt"
+        ],
+        "LANCASTER GENERAL HOSPITAL": [
+            "Lindsi Dearment",
+            "Madhumita Sadhukhan",
+            "Rudolph Rigano",
+            "Kamlesh Acharya",
+            "Crischelle Shank",
+            "Robert Sallavanti",
+            "Erica Coulter",
+            "Althea Keener",
+            "Jared Nissley",
+            "Jennifer Payne",
+            "Mark Rast",
+            "Michael Ripchinski",
+            "Peter Hurtubise",
+            "Pamela Vnenchak",
+            "Adam Lake",
+            "Eric Hussar",
+            "Winfried Wieland",
+            "Christine Stabler",
+            "Gayle Sisbarro",
+            "Matthew Bernabei"
+        ],
+        "SARATOGA HOSPITAL": [
+            "Rita All",
+            "Ayesha Sooriabalan",
+            "Sanjay Taneja",
+            "Stephen Strader",
+            "Erin Juliano",
+            "Stephen Sgambati",
+            "Christopher Messitt",
+            "James Murray",
+            "Julia Malin"
+        ],
+        "ST JOHN HOSPITAL AND MEDICAL CENTER": [
+            "Jennifer Carlton",
+            "Ronald Hertz",
+            "Timothy Blanchet",
+            "Cheryl Smith",
+            "Noor Naji",
+            "John Rasor",
+            "Steven Taormina",
+            "Geoffrey Trivax",
+            "Eileen Reickert",
+            "Amanda Vivian",
+            "Trpko Dimovski",
+            "Jef Getzinger",
+            "Arun Kapur",
+            "Emily Gabbeart",
+            "Gerald Levinson",
+            "Patrycja Czesnowski",
+            "John Kilmer",
+            "Michael Yacoub",
+            "Patricia Barber",
+            "Samuel Yashinsky",
+            "Sean Harris",
+            "Jason Donaghue",
+            "Cecelia Kitakufe",
+            "Farah Kamran",
+            "Gary Yashinsky",
+            "Mark Banno",
+            "Annemarie Poleck",
+            "Ronald Pierskalla",
+            "Elizabeth Bankstahl",
+            "Manhal Tobia",
+            "David Larose",
+            "Lanore Najor",
+            "Manisha Garg",
+            "John Traylor Iii",
+            "Scott Eathorne",
+            "Eileen Hopman",
+            "Susan Tam",
+            "Eugene Herman",
+            "Nejla Israel",
+            "Ronald Hirsch",
+            "Nagashree Chandrashekar",
+            "Virginia Zacharias",
+            "Shabana Rasheed",
+            "Raafat Shehata",
+            "Ann Marie Palaganas",
+            "Thomas Graves",
+            "Christina Winder",
+            "Jeffrey Herman"
+        ],
+        "WELLSPAN EPHRATA COMMUNITY HOSPITAL": [
+            "John Cotter",
+            "Jonathan Griner",
+            "James Kelly",
+            "Roger Kimber",
+            "Claudia Marcozzi-Palandjian",
+            "Matthew Beelen"
+        ],
+        "WASHINGTON HOSPITAL, THE": [
+            "Michael Heise",
+            "Dan Alexander",
+            "Sherry Zimmerman",
+            "Kurt King",
+            "Sarah White",
+            "Kimberle Vore",
+            "Peter Moulder",
+            "Thomas Tambouratzis",
+            "Jennifer Mungari",
+            "Jeffrey Gretz",
+            "Harry Silvis",
+            "Christa Malinak",
+            "Josefina Paderes",
+            "Kevin Boehme",
+            "Martin Alejandro Violago",
+            "Jennifer Muhly",
+            "Edward Dainesi",
+            "Jayesh Gosai",
+            "Shweta Arora",
+            "Daniel Holt",
+            "Janine Rihmland"
+        ],
+        "SPECTRUM HEALTH-BUTTERWORTH CAMPUS": [
+            "Tammy Huizenga",
+            "Edwin Kornoelje",
+            "Kirk Agerson",
+            "Ashley Agerson",
+            "Heather Romero",
+            "Bruce Langerak",
+            "Philip Baty",
+            "Daniel Bergner",
+            "Richard Switzer",
+            "Ashutosh Chaudhari",
+            "Stacyann Steen",
+            "Gerald Durfee",
+            "Jody Banister",
+            "James Fitzgerald",
+            "Wendy Balivet",
+            "David Wilson"
+        ],
+        "THE HOSPITAL OF CENTRAL CONNECTICUT": [
+            "Letterio Asciuto",
+            "Alina Dobrita",
+            "Parthsarthi Patel"
+        ],
+        "GOSHEN HOSPITAL": [
+            "Anna Kragt"
+        ],
+        "FROEDTERT MEMORIAL LUTHERAN HOSPITAL": [
+            "Sabina Diehr",
+            "Mary Ann Gilligan",
+            "Kartikey Acharya",
+            "Theodore MacKinney",
+            "Brian Hilgeman",
+            "Stephen Malcom",
+            "Jennifer MacKinnon",
+            "Tina Rentmeester",
+            "William Hueston",
+            "Malika Siker",
+            "Mary Ellen Csuka",
+            "Martin Muntz",
+            "Katie Zellner",
+            "Lauren Anderson",
+            "Carley Davis",
+            "Christopher Sobczak",
+            "Sarah Lundeen",
+            "Jamie Baisden",
+            "Stephanie Rossi"
+        ],
+        "PARKVIEW WHITLEY HOSPITAL": [
+            "Gita Singh",
+            "Jessica Barkdull",
+            "Shashank Kashyap",
+            "Jessica Escobar",
+            "Chana Goodin"
+        ],
+        "BEAUMONT HOSPITAL - WAYNE": [
+            "Michelle Diebold",
+            "Jennifer Foess-Halaas",
+            "Anita Sinha",
+            "Krzysztof Warszawski",
+            "Kavitha Bhagavatula",
+            "Sasi Boppana",
+            "Taha Alrahomi",
+            "Heront Marcarian",
+            "Lori Weide",
+            "Jianming Lau",
+            "Scott Yaekle",
+            "Craig Everingham"
+        ],
+        "SAMARITAN HOSPITAL": [
+            "Abed Jandali",
+            "Kathleen Marici",
+            "Inna Kudria",
+            "Veena Goel",
+            "Donna Schaefer",
+            "Darlene Hoffman",
+            "Peter Maggiore",
+            "Ashok Baghel",
+            "Geniene Wilson",
+            "Maria Pesquera",
+            "Freshteh Salehi",
+            "Olin Callaghan",
+            "Faith Cruz",
+            "Kristin Yannetti"
+        ],
+        "MIDMICHIGAN MEDICAL CENTER-MIDLAND": [
+            "Jennifer Aloff",
+            "Jeffery Archbold",
+            "Mark Ostahowski",
+            "David Buzanoski",
+            "Bilal Bazzi",
+            "Carl Lovell",
+            "Mark Skory",
+            "Phillip Kadaj",
+            "Mark Ginther",
+            "Roschelle Houston",
+            "Evangeline Ancheta",
+            "Phani Deepthi Vadlamudi",
+            "Shannon Martin"
+        ],
+        "CHRIST HOSPITAL": [
+            "Reid Hartmann",
+            "Joe Burghard",
+            "Amador Delamerced",
+            "Gwendolyn Welsh",
+            "Frank Perrino",
+            "Shyamala Jagtap",
+            "Jeremy Bruce",
+            "Daniel Silvestri",
+            "Robert Keyes",
+            "Joseph Bateman",
+            "Sergio Mezcua",
+            "Katherine Dumont",
+            "Peter Wong",
+            "Don Fixler",
+            "Robert Warden",
+            "Dori Thompson"
+        ],
+        "WOOSTER COMMUNITY HOSPITAL": [
+            "Lisa Malys",
+            "Scott Hannan"
+        ],
+        "COMMUNITY HOSPITAL OF ANDERSON AND MADISON COUNTY": [
+            "Heather Hosfield",
+            "Jad Harb",
+            "Todd Rhoades"
+        ],
+        "CLEVELAND CLINIC": [
+            "Leon Zhong",
+            "Norman Perala",
+            "Cary Borland",
+            "Kendalle Cobb",
+            "George Muschler",
+            "Stacey Jolly",
+            "Vickie Baker",
+            "Scott Starenchak",
+            "Kristin Englund",
+            "Douglas Harley",
+            "Peter Laszlo",
+            "Charmaine Gutjahr",
+            "Sarah Pickering Beers",
+            "James Hekman",
+            "Jessica Strasburg",
+            "Nana Kobaivanova",
+            "Nirav Vakharia",
+            "Hetty Carraway",
+            "George Adams",
+            "Andrea Sikon",
+            "Elena Borukh",
+            "Teresa Myers",
+            "Wayne Tsuang",
+            "Roopa Sankar",
+            "William Zafirau",
+            "Daniel Laszlo",
+            "Lauren Smit",
+            "Catherine Fleisher",
+            "Brian Myers",
+            "Richard Cartabuke",
+            "Craig Nielsen",
+            "Satti Reddy",
+            "Michael Rothberg",
+            "Leann Olansky"
+        ],
+        "UNIVERSITY OF CINCINNATI MEDICAL CENTER, LLC": [
+            "Nancy Slattery",
+            "Deborah Gerdes"
+        ],
+        "UNIVERSITY HOSPITALS OF CLEVELAND": [
+            "Barbara Vizy",
+            "Melinda Defilippo Szucs",
+            "Matthew Andresen",
+            "Rajvinder Parmar",
+            "Richard Weinberger",
+            "Janet Morgan",
+            "Denise Finkelstein",
+            "Amanda Lathia",
+            "Michelle Mackey-Sawyer",
+            "Richard Stein"
+        ],
+        "GRAND VIEW HOSPITAL": [
+            "Lorraine Snyder Dougherty",
+            "Robert Davis",
+            "Mitchell Alden"
+        ],
+        "MOSES H. CONE MEMORIAL HOSPITAL, THE": [
+            "Peter Dalldorf"
+        ],
+        "SPARROW CLINTON HOSPITAL": [
+            "Tabassum Faruqi",
+            "Edward Swisher",
+            "Eric Smith"
+        ],
+        "SOUTH POINTE HOSPITAL": [
+            "Xian Wen Jin",
+            "Josie Znidarsic",
+            "Erin Rocchio",
+            "Arun Gupta",
+            "Kapil Gulati",
+            "Ronald Adams",
+            "Nayyer Varghai",
+            "Syed Ashraf",
+            "Frederick Harris",
+            "Ann Awadalla"
+        ],
+        "RIVERSIDE METHODIST HOSPITAL": [
+            "David Lynch",
+            "Gerald Kremer",
+            "Patricia Bacon",
+            "Douglas Wallace",
+            "Jaynine Vado",
+            "Yadwinder Singh",
+            "John Hedge",
+            "Matthew Fuerst",
+            "Jessica Barnett",
+            "Inderpreet Rangi",
+            "Jeffery Madachy",
+            "Mark White",
+            "Melissa Jefferis",
+            "Nancy Henceroth-Gatto",
+            "Christina Crum",
+            "Faozan Narvel",
+            "Douglas Thompson",
+            "Leah Heinlen",
+            "Scott Rogers",
+            "Jessica Thiessen Long",
+            "Linda Williams",
+            "NaN",
+            "Stephen Stack",
+            "Edward Arcy",
+            "Kathy Dodd",
+            "Thomas Hospel",
+            "Jesse Capone",
+            "Ann Sage",
+            "Jacob Wolf",
+            "Kenneth Cayce",
+            "Christopher Johnson",
+            "Peter Martin",
+            "Neil Pandya",
+            "Robert Sears",
+            "Tejal Patel",
+            "Mark Dewalt",
+            "Joseph Jeu",
+            "Bradley Herpolsheimer",
+            "Candice Martin",
+            "Lucas Beeley",
+            "Megan Meyer",
+            "Sharistha Peerzade",
+            "Nutan Ruegsegger",
+            "Valerie Kuenzli",
+            "Patricia Hollingsworth",
+            "Kimberly Austin",
+            "Shelley Blackburn",
+            "Jill Porter",
+            "Francis Voegele",
+            "Melissa Meleski",
+            "Brian Boyle",
+            "Maurice Mast",
+            "David Dewalt",
+            "Megan Frank",
+            "Heather Hines",
+            "Rena Henriques",
+            "Sarah Sams",
+            "Cassandra Suggs",
+            "Patrick Doyle",
+            "Mandana Emami",
+            "Randhir Sharma",
+            "Andrew Eilerman",
+            "Alysia Herzog"
+        ],
+        "MCLAREN MACOMB": [
+            "Albert Przybylski",
+            "Mary Puls",
+            "Mohammadreza Kahnamouei",
+            "Keith McKenzie",
+            "David Calton"
+        ],
+        "MERCY HEALTH HACKLEY CAMPUS": [
+            "Michael Banka",
+            "Nicholas Beechnau",
+            "Valerie Conrad",
+            "George Renton",
+            "Nancy Brenneman",
+            "Tyson Lahti",
+            "Shelley Anderson",
+            "Michelle Klanke",
+            "Chad Uptigrove"
+        ],
+        "GOOD SAMARITAN HOSPITAL": [
+            "Adrian Carter",
+            "James Pritchard",
+            "Stephanie Striet"
+        ],
+        "PINNACLE HEALTH HOSPITALS": [
+            "Jeffrey Matzoni",
+            "Denise Montisano",
+            "Joseph Demario",
+            "William Nasuti",
+            "Daniel Mateer",
+            "Chadler Jumper",
+            "Karen Bell",
+            "David Dell",
+            "John Cinicola",
+            "Christina Griffith",
+            "John Parry",
+            "John Snoke",
+            "William Albright",
+            "Salina Bari",
+            "Mark Yurek",
+            "Jung Lee",
+            "Nicholas Kitsopoulos",
+            "Baxter Wellmon",
+            "Amanpreet Sandhu",
+            "Kendra Davis",
+            "Branka McCarthy",
+            "Thomas Kunkle",
+            "Keith Rice",
+            "Ahmed Tarique",
+            "Kristina Wagner",
+            "Shawn Murphy",
+            "Roberto Hodara Friedmann",
+            "Scott Mueller",
+            "Tuong Bui",
+            "Don Dearmitt",
+            "Angelique McKinney-Bourne",
+            "David Pawlush",
+            "Beverley Uniacke"
+        ],
+        "UPMC HAMOT HOSPITAL": [
+            "Anthony Ignocheck",
+            "Sean Leonard"
+        ],
+        "ROME MEMORIAL HOSPITAL, INC": [
+            "Marina Anne Martyn",
+            "Linda Clifford",
+            "Jennifer Lavesa-Cesana",
+            "Jennifer Quinn"
+        ],
+        "ONEIDA HEALTHCARE CENTER": [
+            "Daniel Ratnarajah",
+            "John Wight",
+            "Ofrona Reid",
+            "Erin Thompson"
+        ],
+        "STRONG MEMORIAL HOSPITAL": [
+            "Lori Ferris",
+            "Ralph Manchester",
+            "Philip Meaker",
+            "Nilsa Martinez",
+            "James Gaden",
+            "Christopher Cove",
+            "Roopa Korni",
+            "Dewey Jackson",
+            "James Iacobucci",
+            "Mentesinot Woldeyohannes",
+            "Jill Reidy",
+            "Darakhshan Shamsie",
+            "Tiffany Pulcino",
+            "Andrew Call"
+        ],
+        "MIAMI VALLEY HOSPITAL": [
+            "Annadorai Kalahasthy",
+            "Jodi Van Jura",
+            "John McCarthy",
+            "Dean Bricker",
+            "Amanda Gedeit",
+            "Thomas Hirt",
+            "Nicole Turkson",
+            "Jay Hoffman",
+            "Melissa Butler",
+            "Stephanie Fronista-Ward",
+            "James Fisco",
+            "NaN",
+            "Teresa Menart",
+            "Brad Snider",
+            "Anoopa Hodges",
+            "Thomas Greer",
+            "Marlon Twyman",
+            "Siva Ambalavanan",
+            "Denise Griffith",
+            "Chethana Raghupathy",
+            "Anessa Alappatt",
+            "Polina Sadikov",
+            "Seth Kettel",
+            "Bihu Sandhir",
+            "Steven Swedlund",
+            "Chacko Alappatt",
+            "Mark Ringle",
+            "Duane Dickens",
+            "Alvin Stein",
+            "Lesley Meeker",
+            "Richard Surowiec",
+            "Marc Raslich",
+            "Paul Opsahl",
+            "Deanna Allgeyer",
+            "Julia Boyd",
+            "Timothy O\ufffdDonnell",
+            "Spencer Wolf",
+            "Angela Kohnen",
+            "Geetha Ambalavanan",
+            "Ravindra Mullapudi",
+            "Leo Lasala",
+            "Warren Ljungren",
+            "Sally McIntyre",
+            "Peter Reynolds",
+            "Lisa Kellar"
+        ],
+        "WOMEN'S HOSPITAL THE": [
+            "William Thompson",
+            "Ankita Bahuva"
+        ],
+        "SOIN MEDICAL CENTER": [
+            "Shane Sampson",
+            "Suzanne Bell",
+            "Maureen Perez",
+            "Kevin Carter",
+            "Irshad Hussain",
+            "Ziad Khatib",
+            "Kendra Vonderembse",
+            "Santosh Khurma",
+            "Saba Qureshi",
+            "Darci Brown",
+            "James Freyhof",
+            "Michelle Russell",
+            "Joseph Mastandrea",
+            "James Tytko",
+            "Archie Enoch"
+        ],
+        "UPMC PRESBYTERIAN SHADYSIDE": [
+            "Jennifer Stasko",
+            "Mark Gottron",
+            "John Haretos",
+            "Matthew D\ufffdOnofrio",
+            "James Ohr",
+            "Charles Luke",
+            "Benjamin Kalsmith",
+            "Roby Thomas"
+        ],
+        "GEISINGER-COMMUNITY MEDICAL CENTER": [
+            "Hassan Khalil",
+            "Michael Ayers",
+            "Alan Arthur"
+        ],
+        "BRONSON METHODIST HOSPITAL": [
+            "Carolyn Von Maur",
+            "Michael Dandois",
+            "Madiha Farhat",
+            "Kurt Helgerson",
+            "Michael Ku",
+            "Leslie Szeles",
+            "Lisa Carolan-Katz",
+            "Jill Winkler",
+            "Rockelle Rogers",
+            "Seth Egelston"
+        ],
+        "WILLIAM BEAUMONT HOSPITAL-GROSSE POINTE": [
+            "Stephenie Lucas",
+            "Demetrios Mermiges",
+            "Wafaa Hanna",
+            "Carolyn Nine",
+            "Julie Amicucci",
+            "Gary Bill",
+            "George Afram",
+            "Jennifer Hichme",
+            "Steven Kotsonis",
+            "Michael Kurzawa",
+            "Alok Shukla",
+            "Asha Shajahan",
+            "Theodore Tangalos",
+            "Deepali Jain",
+            "Jerald Henry",
+            "Brent Fuller",
+            "Robin Thomas",
+            "John Vollmer",
+            "Stephen Williams",
+            "Daniel Stachelski"
+        ],
+        "PHOENIXVILLE HOSPITAL": [
+            "Lynn Shay",
+            "Ira Cantor"
+        ],
+        "HENRY FORD ALLEGIANCE HEALTH": [
+            "Caleb Lee",
+            "Heather Jackson",
+            "William Bivens",
+            "Bruce Barbour",
+            "Clark Conant",
+            "Matt Rosenberg"
+        ],
+        "EINSTEIN MEDICAL CENTER MONTGOMERY": [
+            "Sarah Perloff",
+            "Janis Rubin",
+            "Mansoor Husain",
+            "Aysha Jilani",
+            "Randi Zeitzer",
+            "Chandira Mendis",
+            "Gina Rose",
+            "Dolores Tornambe"
+        ],
+        "RUSH UNIVERSITY MEDICAL CENTER": [
+            "Rupel Dedhia",
+            "Gina Kring",
+            "Elizabeth Legorreta",
+            "Brandon Barton",
+            "Steven Rothschild",
+            "Michael Hanak",
+            "Sheba Chiplunkar",
+            "Maggie McNulty",
+            "Anne Hartley",
+            "Jack Olson",
+            "Jessica Diethelm",
+            "Sarah Anzevino",
+            "Suchita Kishore",
+            "Poonam Merai",
+            "Juan Cobo",
+            "Jennifer Earvolino",
+            "Frank Kelly",
+            "Prema Nanavaty",
+            "Michele Bailey",
+            "Bryan Moline",
+            "Peter Tsambarlis",
+            "Denise Valero",
+            "Ruta Rao",
+            "Viju John",
+            "Christa Cooper",
+            "Pamela Strauss",
+            "John Segreti",
+            "Catherine Koop",
+            "Chase Hayes",
+            "Magdalena Bednarczyk",
+            "Daniel Dunham",
+            "Summer Dewdney",
+            "Josune Iglesias"
+        ],
+        "ST JOHN RIVER DISTRICT HOSPITAL": [
+            "Rigel Galera",
+            "Ira Sabbagh",
+            "Harold Bacheldor",
+            "Suzanne Ross",
+            "Laura Lucio-Reincke"
+        ],
+        "PAUL OLIVER MEMORIAL HOSPITAL": [
+            "Allison Goldsmith",
+            "Carl Anders",
+            "Bradley Goodwin",
+            "James Milliken",
+            "John Gorman"
+        ],
+        "MCLAREN GREATER LANSING": [
+            "Francesca Buskulic",
+            "Mary Werkman",
+            "Sadiq Syed",
+            "Labony Mookerjee",
+            "Jeremiah Lopez",
+            "Joseph Kozlowski",
+            "William Page-Echols",
+            "Aruna Kundi",
+            "Amit Ghose",
+            "Prathima Pabbathi",
+            "Holly Nieusma",
+            "Peter Luea",
+            "Kashmira Chinoy",
+            "Mary Chao",
+            "Renu Chaturvedi",
+            "Elmer Novis",
+            "Charles Dehlin"
+        ],
+        "UPMC CHAUTAUQUA WCA": [
+            "Dorcas Lacayo Allen",
+            "Mumtaz Karimi",
+            "John Lamancuso",
+            "Mary Mazgaj"
+        ],
+        "EASTON HOSPITAL": [
+            "Bharat Mehta",
+            "Prakash Shah"
+        ],
+        "ST JOSEPH MERCY OAKLAND": [
+            "Timothy Oneill",
+            "Nitisha Hiranandani",
+            "Varsha Revankar",
+            "Safiul Hasan",
+            "Robert Barnes",
+            "Walter Culver",
+            "Christian McTurk",
+            "Christina Joslin",
+            "Matthew Kulick",
+            "Stephanie Coleman",
+            "Colleen Kennedy",
+            "Ramla Moghul",
+            "Corey Haber",
+            "Leslie Caren",
+            "Ray Breitenbach",
+            "Abdallah Rizk",
+            "Mark Karchon",
+            "Imad Mansoor",
+            "Michael Krivitsky",
+            "Nadia Sadik",
+            "Larry Baylis",
+            "Bhupendranath Patel",
+            "Joseph Lajoie",
+            "Dean Moscovic"
+        ],
+        "MCLAREN PORT HURON": [
+            "Scott McPhilimy",
+            "Silvana Matte",
+            "Jouliana Eager",
+            "Charbal Bazo",
+            "Todor Toromanovski",
+            "Anil Patel",
+            "Seema Doshi"
+        ],
+        "ELLIS HOSPITAL": [
+            "John Petrillo",
+            "Nancy Sapio",
+            "John Pramenko",
+            "Karen Bleser",
+            "George Hughes",
+            "Jean Brown"
+        ],
+        "WESTERN MISSOURI MEDICAL CENTER": [
+            "Marco Mazzella"
+        ],
+        "ST LUKES QUAKERTOWN HOSPITAL": [
+            "Douglas Shoenberger",
+            "David Hoffman",
+            "Nina Khan",
+            "Kristi Kotz",
+            "Todd Holbrook",
+            "William Kracht",
+            "Susan Lipson",
+            "Brittany Kuperavage",
+            "Anthony Magdalinski",
+            "Astha Agarwal",
+            "Divisha Raheja",
+            "Joann Burke",
+            "Thomas Wilson",
+            "Isabella Alkasov",
+            "Paul Marion",
+            "Csaba Berces"
+        ],
+        "SOUTHWESTERN VERMONT MEDICAL CENTER": [
+            "Frank Westad",
+            "James Carroll",
+            "Peter Peff"
+        ],
+        "YALE-NEW HAVEN HOSPITAL": [
+            "Zadie Kenkare",
+            "Dean Har",
+            "Anthony Lendino",
+            "Ann Celeste Mapas-Dimaya",
+            "Catharine Arnold",
+            "Victor Morris",
+            "Si-Hoi Lam",
+            "Ana Rodriguez-Musterer",
+            "Nasiha Fahmi",
+            "Deborah Caserta-Brunson",
+            "Michael Bergman",
+            "Frank Mongillo",
+            "Jeffrey Gimbel",
+            "Thomas Gill",
+            "Jill Banatoski"
+        ],
+        "COVENANT MEDICAL CENTER": [
+            "Arun Veera",
+            "Trasi Crumrin",
+            "Lisa Spielhaupter",
+            "Michael Butman",
+            "Andrew Lafleur",
+            "Delicia Pruitt",
+            "Louis Byrne",
+            "Debasish Mridha"
+        ],
+        "MACNEAL  HOSPITAL": [
+            "Elsa Valero",
+            "Nejat Destani",
+            "Melissa Toulios",
+            "Kathleen Raschka"
+        ],
+        "WAYNESBORO HOSPITAL": [
+            "David Steves",
+            "Todd Bokelman"
+        ],
+        "FRANCISCAN HEALTH OLYMPIA & CHICAGO HEIGHTS": [
+            "Anand Gupta",
+            "Sandra Marcotte"
+        ],
+        "SARASOTA MEMORIAL HOSPITAL": [
+            "Mary Healy",
+            "Jessica McAlpine"
+        ],
+        "ST ELIZABETH EDGEWOOD": [
+            "Maureen Pelletier",
+            "Suzanne Martini"
+        ],
+        "PROMEDICA TOLEDO HOSPITAL": [
+            "Tedd March",
+            "Winfred Stoltzfus",
+            "Kristen Braig",
+            "Ionel Welt",
+            "William Gray",
+            "Henry Naddaf",
+            "Boyd Hoddinott",
+            "Bina Laungani"
+        ],
+        "DOYLESTOWN HOSPITAL": [
+            "Karen Winneg",
+            "Philip Treiman",
+            "Carla Patton",
+            "Suzanne Kelly",
+            "Jean-Paul Lucke",
+            "Paul Zakrzewski",
+            "Bruce Lieberman",
+            "Christine Dacier",
+            "David Dipietro",
+            "Elliot Schnur",
+            "Bohdan Martynec",
+            "Antoinette Wassel",
+            "Wei Shen",
+            "Joseph Bagnick",
+            "Jeffrey Danzis"
+        ],
+        "BRONSON BATTLE CREEK HOSPITAL": [
+            "Xue Wang"
+        ],
+        "HOSPITAL OF UNIV OF PENNSYLVANIA": [
+            "Marc Jaffe",
+            "Rebecca Abeyawardene",
+            "Susan Broderman",
+            "Heidi Yutzler-Overton"
+        ],
+        "PARKVIEW WABASH HOSPITAL, INC": [
+            "Manuel Martinez",
+            "Melanie Zolman"
+        ],
+        "ST LUKE'S MINERS MEMORIAL HOSPITAL": [
+            "Rosalee Rehrig",
+            "Robert Durako",
+            "Victor Manzella",
+            "David Testa",
+            "John Bosi",
+            "Colleen Manzella",
+            "Robert Harkins",
+            "Anuradha Silvonek",
+            "Stephen Shoemaker",
+            "Edward Manzella",
+            "Emilia Secheresiu"
+        ],
+        "SUMMA HEALTH SYSTEM": [
+            "Jessica Falvo Lang",
+            "Kristin Trump",
+            "Kelly Moorhead",
+            "Susan Ray",
+            "Debra Gargiulo",
+            "Barbara Bailey",
+            "Lisa Esterle",
+            "John Sassano",
+            "Pamela Rucki",
+            "Joseph Burick",
+            "Diane Minich",
+            "Bradley Sellers",
+            "Anne Grantham"
+        ],
+        "NORTHSHORE UNIVERSITY HEALTHSYSTEM - EVANSTON HOSPITAL": [
+            "Gregory Wallman",
+            "David Levine",
+            "Olga Lansky",
+            "Michael Blum",
+            "Julia Gorelik"
+        ],
+        "INDIANA REGIONAL MEDICAL CENTER": [
+            "Kenneth Dinger",
+            "Roberto Turnbull",
+            "Bernard Scherer",
+            "Dennis Eckels"
+        ],
+        "MEMORIAL HOSPITAL OF SOUTH BEND": [
+            "David Dyck",
+            "Jennifer Pennington",
+            "John Whitney",
+            "Scott Eshowsky",
+            "Douglas David",
+            "Mark Schmeltz",
+            "William Farabaugh",
+            "Steven Hanberg",
+            "James Tieman",
+            "David Amrhein"
+        ],
+        "ST JOHN MACOMB-OAKLAND HOSPITAL-MACOMB CENTER": [
+            "Benjamin Osowa",
+            "Gary Langnas",
+            "Scot Goldberg",
+            "Michael Kenneson",
+            "Barry Meyer",
+            "Christopher Hughes",
+            "Michael Faber",
+            "Neil Alperin",
+            "Basel Brikho",
+            "Mary Murphy",
+            "Chandrika Iyer",
+            "Jeffrey Kraft",
+            "Keith Bornstein",
+            "Paul Burgoyne",
+            "Stephen Kehres",
+            "Kristen Panozzo",
+            "Edward Pazuchowski",
+            "Ronald Barnett",
+            "Ghaith Ibrahim",
+            "Mona Khater"
+        ],
+        "BEAUMONT HOSPITAL, ROYAL OAK": [
+            "Anthony Cardellio",
+            "Tania Sadik",
+            "Mitchell Klausner",
+            "Jeffrey Rochlen",
+            "Barry Moss",
+            "Michael Feldman",
+            "Jacqueline Gierer",
+            "Charles Heth",
+            "Sharon Wolf",
+            "Lisa Speck",
+            "Harry Rozencweig",
+            "Richard Minkin",
+            "David Rosman",
+            "Seth Mindell",
+            "Parimala Dommeti",
+            "Neelum Gupta",
+            "Steven Feldman",
+            "Arthur Efros",
+            "Samina Ghazi"
+        ],
+        "SISTERS OF CHARITY HOSPITAL": [
+            "Edward Obrien",
+            "Hongbiao Liu",
+            "Jonathan Edelson",
+            "Winston Douglas",
+            "Pamela Reed",
+            "Alicia Hermogenes",
+            "Douglas Roberts"
+        ],
+        "ALLEGHENY GENERAL HOSPITAL": [
+            "Joan Devine",
+            "Ronald Monah",
+            "Molly Fisher",
+            "Lisa Guthrie",
+            "Mary Certo-Rossetti",
+            "Paul Oczypok",
+            "Joshua Lester",
+            "Kevin Taffe",
+            "Elizabeth Cuevas",
+            "Rhea Marinstein"
+        ],
+        "PARMA COMMUNITY GENERAL HOSPITAL": [
+            "Khaleel Deeb"
+        ],
+        "COPLEY MEMORIAL HOSPITAL": [
+            "Nidhi Tiwari",
+            "John Davine",
+            "Jennifer Kurka",
+            "Radka Todorova-Angelova",
+            "Alafia Nomani"
+        ],
+        "DELNOR COMMUNITY HOSPITAL": [
+            "Laura Tagle",
+            "Chintan Desai",
+            "Marc Conte-Russian",
+            "Lauren Suhayda",
+            "Lori Zimmers",
+            "Edward Ward",
+            "Theresa Andrews"
+        ],
+        "THE UNIVERSITY OF CHICAGO MEDICAL CENTER": [
+            "Mindy Schwartz",
+            "Shellie Williams",
+            "Lina Khamis",
+            "Nicole King",
+            "Julia Simon",
+            "James Mastrianni"
+        ],
+        "FORBES HOSPITAL": [
+            "Robert Tymoczko",
+            "Uma Yadagiri",
+            "Michael Hahalyak",
+            "Katherine Neely",
+            "Joseph Dougherty",
+            "Lee Harmatz",
+            "Maria Gioia",
+            "Balakrishna Ragoor",
+            "Mary Cooper",
+            "Scott Vargo",
+            "Megan Magovern",
+            "Palaniappan Muthappan",
+            "Jessica Peek",
+            "Scott Milstein",
+            "Randall Cook"
+        ],
+        "HENRY FORD WEST BLOOMFIELD HOSPITAL": [
+            "Akshay Khandelwal",
+            "Rashid Alsabeh",
+            "Joanna Healey",
+            "James Lewerenz"
+        ],
+        "ENNIS REGIONAL MEDICAL CENTER": [
+            "Jerry McKenzie"
+        ],
+        "HACKENSACK UNIVERSITY MEDICAL CENTER": [
+            "Hyman Kirschenbaum"
+        ],
+        "EXCELA HEALTH WESTMORELAND REGIONAL HOSPITAL": [
+            "Keith Szekely",
+            "Kevin Bartolomucci",
+            "Rebecca Quel",
+            "Karen Lazzaro",
+            "Kim Avolio",
+            "Kenneth Szekely",
+            "Edward Johnson",
+            "Erin Dieter",
+            "Michael Weinberg",
+            "Susan Bursch",
+            "Michael Semelka",
+            "Ryan Floyd",
+            "Molly Castille",
+            "Mary Zakutney",
+            "James Masterson",
+            "Heather Pavlinsky",
+            "Aldo Prosperi",
+            "Howard Bursch",
+            "John Horne",
+            "Justin Wentworth",
+            "Aster Assefa",
+            "Michelle Rathgeb",
+            "Thaddeus Pajak",
+            "Mark Kielbiowski"
+        ],
+        "PROCTOR HOSPITAL": [
+            "Paul Fishkin",
+            "John Voris"
+        ],
+        "WINDBER HOSPITAL": [
+            "Henry Shoenthal",
+            "Craig Fockler",
+            "Carol Kowtoniuk",
+            "Stephen Matse",
+            "David Bencie",
+            "Paul Donrovich"
+        ],
+        "BEAUMONT HOSPITAL, TROY": [
+            "Bindu Suresh",
+            "Carl Sarnacki",
+            "Jennifer Haener",
+            "Alan Carbajo",
+            "Aya Rifai",
+            "Ronald Bellisario",
+            "Rimma Polevoy",
+            "Sarah Wilson",
+            "Robert Pikal",
+            "Marc Weisman",
+            "Trevor Ripley",
+            "Rebecca Rivard",
+            "Andrew Oleszkowicz",
+            "Sandra Golden",
+            "Lowell Schmeltz",
+            "Jay Sandberg",
+            "Ashwini Shadakshari",
+            "Glenn Gradis",
+            "Ryan Barish",
+            "Jannifer Stromberg",
+            "Michael Kizy",
+            "Ruzica Dzebo",
+            "Naysha Varghese",
+            "Jamie Baines",
+            "Gary Edelson",
+            "David Lick",
+            "Terry Bowers",
+            "Barbara Falkell"
+        ],
+        "GREENWICH HOSPITAL ASSOCIATION -": [
+            "Peter Cimino"
+        ],
+        "POTTSTOWN HOSPITAL": [
+            "Dennis Debias",
+            "Tram Nguyen"
+        ],
+        "HENRY FORD HOSPITAL": [
+            "Anupama Nair",
+            "Zarina Alam"
+        ],
+        "UNIONTOWN HOSPITAL": [
+            "Rachel Talaman-Perez",
+            "Harvey Shipkovitz",
+            "Gina Canada"
+        ],
+        "NORTH MEMORIAL MEDICAL CENTER": [
+            "Kristin Kipka"
+        ],
+        "WEST PENN HOSPITAL": [
+            "Mrudula Gadani",
+            "Donald Wilfong",
+            "Christine Herb",
+            "Atalie Lapid",
+            "Christine Mackey",
+            "Mary Sealey",
+            "Anthony Baroni",
+            "Nicole Sacca",
+            "Michael Gluhanick"
+        ],
+        "NORTHWESTERN MEMORIAL HOSPITAL": [
+            "Preeti Kansal",
+            "Anne Goodenow",
+            "Patricia Murphy",
+            "Patricia Vassallo",
+            "Maha Hussain",
+            "Lee Lindquist",
+            "Jennifer Cleary",
+            "Muriel Jean-Jacques",
+            "Shilajit Kundu",
+            "Lubna Choudhury",
+            "Neil Stone",
+            "Brenda Martone",
+            "David Fox",
+            "Therese Denecke-Dattalo",
+            "Dwayne Dobschuetz",
+            "Adria Bertolini",
+            "Judith Paice",
+            "Sadiya Khan"
+        ],
+        "PERRY MEMORIAL HOSPITAL": [
+            "Timothy Pratt",
+            "Rick Cernovich",
+            "Christina McDorman"
+        ],
+        "MONONGAHELA VALLEY HOSPITAL": [
+            "Juliann Romasco",
+            "Henry Holets",
+            "Elan Noorparvar",
+            "Rhonda Wingrove",
+            "Umberto Derienzo",
+            "Matthew Walton"
+        ],
+        "BAPTIST MEDICAL CENTER JACKSONVILLE": [
+            "Muhammad Ghazi"
+        ],
+        "PUNXSUTAWNEY AREA HOSPITAL": [
+            "Patricia Lambiotte",
+            "Phillip States",
+            "Brandon Roscoe"
+        ],
+        "CARTHAGE AREA HOSPITAL, INC": [
+            "Paul Palumbo"
+        ],
+        "HILLCREST HOSPITAL": [
+            "Donald Ford",
+            "Irene Druzina",
+            "Anindita Ghosh",
+            "Donald Long",
+            "Aphrodite Papadakis",
+            "Beejadi Mukunda",
+            "Jeffrey Brown",
+            "Lakshmi Khatri",
+            "Brian Wolovitz",
+            "Katrina Sabur",
+            "Laura Lipold",
+            "Eric Moyer",
+            "Joan McDonough",
+            "Larisa Gamerman",
+            "Shazia Goraya",
+            "Michael Koniarczyk",
+            "Lara Feldman",
+            "Dalia Mossad",
+            "Samina Yunus",
+            "Monica Urban",
+            "Alla Kirsch",
+            "Loren Kendis",
+            "Neha Vyas",
+            "Dawn Joseph"
+        ],
+        "HARBOR BEACH COMMUNITY HOSPITAL": [
+            "Joshua White"
+        ],
+        "STAMFORD HOSPITAL": [
+            "Anna Shender",
+            "Alfonse Campo",
+            "Tabitha Fortt",
+            "Radhika Jasthi",
+            "Tulin Koparan"
+        ],
+        "HERITAGE VALLEY SEWICKLEY": [
+            "Diana Raub",
+            "Amar Singh"
+        ],
+        "BRIDGEPORT HOSPITAL": [
+            "Dennis Williams",
+            "Peter Tortora",
+            "Rakesh Anand",
+            "Nalini Anand"
+        ],
+        "ST ELIZABETH MEDICAL CENTER": [
+            "Jawad Shaikh",
+            "Bhisham Garg",
+            "George Kozminski",
+            "Marcia Newsom",
+            "Susan Griffing"
+        ],
+        "AURORA ST LUKES MEDICAL CENTER": [
+            "Laith Alsayegh",
+            "Jeffrey Katt",
+            "Wilhelm Lehmann",
+            "Kelly Tritz",
+            "Huong Dangvu",
+            "Rehana Begum",
+            "Aijaz Noor",
+            "Natalya Puckett"
+        ],
+        "SUBURBAN COMMUNITY HOSPITAL": [
+            "Alexander Kiotis",
+            "George Homa"
+        ],
+        "HURON VALLEY-SINAI HOSPITAL": [
+            "Raghad Lepley",
+            "Ruth Kozlowski",
+            "Steven Klein",
+            "Arti Madhavan",
+            "Alan Feldman",
+            "Jeet Pillay"
+        ],
+        "TROY COMMUNITY HOSPITAL": [
+            "Kari Wood",
+            "Joseph Cama"
+        ],
+        "NORTHWEST MEDICAL CENTER": [
+            "Nesreen Kurtom"
+        ],
+        "HERITAGE VALLEY BEAVER": [
+            "Ganapathi Moka"
+        ],
+        "UNITED MEMORIAL MEDICAL CENTER": [
+            "Michael Maggiulli",
+            "Nataliia Vasylchuk",
+            "Alan Barcomb",
+            "Amy Ireland",
+            "Mohammad Rumi",
+            "Jennifer Wheeler"
+        ],
+        "MOUNT CARMEL WEST": [
+            "Keri Hershberger",
+            "Eric Schroer",
+            "Caitlin Kesari",
+            "John Weigand",
+            "Jennifer Hartman",
+            "Srikanth Kesari",
+            "Francisco Garabis"
+        ],
+        "REID HOSPITAL & HEALTH CARE SERVICES": [
+            "Carrie Kerby",
+            "Suzanne Hardacre",
+            "Brent Bader",
+            "Joseph Hester",
+            "Mark Vosler",
+            "Molly Emmert"
+        ],
+        "MORTON PLANT HOSPITAL": [
+            "Melissa Hutton"
+        ],
+        "LICKING MEMORIAL HOSPITAL": [
+            "Pattye Whisman",
+            "Kevin Graham",
+            "Andrew Seipel",
+            "Nina Hourmouzis",
+            "Jason Winterhalter",
+            "Janae Davis"
+        ],
+        "CAPE COD HEALTHCARE": [
+            "Brian Daggett"
+        ],
+        "SAN ANTONIO REGIONAL HOSPITAL": [
+            "Antony Hou"
+        ],
+        "UPMC ST MARGARET": [
+            "Fred Rubin"
+        ],
+        "CINCINNATI CHILDREN'S HOSPITAL MEDICAL CENTER": [
+            "Rebecca Brady"
+        ],
+        "LAKELAND HOSPITAL, ST JOSEPH": [
+            "Alan Smiy",
+            "Jonathan Osburn",
+            "Audrey Carrier",
+            "Troy Thompson",
+            "Donald Wolfram"
+        ],
+        "MERCY HEALTH SAINT MARY'S": [
+            "Sally Kliphuis",
+            "Maha Ayashi",
+            "Rhoda Beltran",
+            "Eric Bouwens",
+            "Patricia Vanbaren",
+            "Jaime Halverson",
+            "Laurie Daum",
+            "David Blair",
+            "Jill Bultje",
+            "Angela Andrews",
+            "Steven Ashmead",
+            "Rick Saier",
+            "Brian Decker",
+            "Heather Bunting",
+            "Karen Kennedy",
+            "Jarrad Utter",
+            "Uchebike Nwankwo"
+        ],
+        "HOLLAND COMMUNITY HOSPITAL": [
+            "Karen Foulds",
+            "Jason Myers",
+            "Peter Christensen",
+            "Mark Stid"
+        ],
+        "GRAND LAKE HEALTH SYSTEM": [
+            "Dawn McNaughton"
+        ],
+        "WEST BRANCH REGIONAL MEDICAL CENTER": [
+            "Jeffrey Strickler",
+            "Tazeen Ahmed",
+            "Helen Decorte"
+        ],
+        "GEISINGER WYOMING VALLEY MEDICAL CENTER": [
+            "Ihab Dana"
+        ],
+        "ST CLAIR HOSPITAL": [
+            "Anthony Ciampa",
+            "Carol Myron",
+            "Sapna Vasudevan",
+            "Valliammai Muthappan",
+            "Stephen Hudak",
+            "Laurie Molinda",
+            "Antonio Riccelli",
+            "Karin Oltyan",
+            "Amanda Hercules Smith",
+            "Daniel Janiak",
+            "Thomas Zelonis",
+            "Aimee Marmol",
+            "John Girod"
+        ],
+        "UPMC MCKEESPORT HOSPITAL": [
+            "Deepika Pasunur",
+            "Zorica Rutovic",
+            "Silvana Yovanof",
+            "Tesfamariam Andemeskel"
+        ],
+        "ST. LUKE'S WARREN HOSPITAL": [
+            "Christopher Pogodzinski",
+            "Jane Garnjost",
+            "Abdul Makhdomi",
+            "Lauren Strohm",
+            "Jon Raso",
+            "Govindji Fuletra",
+            "Maria Figueras",
+            "Manu Vachhani"
+        ],
+        "PENNSYLVANIA HOSPITAL": [
+            "Janet Fitzpatrick",
+            "Sudhindra Pydimarri"
+        ],
+        "INDIANA UNIVERSITY HEALTH NORTH HOSPITAL": [
+            "Sharon Karp",
+            "Asif Sharfuddin"
+        ],
+        "MARYMOUNT HOSPITAL": [
+            "Himanshu Dubey",
+            "Colleen Clayton",
+            "Avi Marocco",
+            "Eric Boose",
+            "Douglas Kohler",
+            "Sandra Dellaportas",
+            "Sherif Mossad",
+            "Kevin Bogar"
+        ],
+        "ST LUKE'S HOSPITAL BETHLEHEM": [
+            "Vanessa Eiswerth",
+            "David Leh",
+            "Brian McDonald",
+            "Cromwell Estrada",
+            "Matthew Bartelt",
+            "Jared Nothstein",
+            "Nicholas Tatalias",
+            "Ronald Buckley",
+            "Victor Powers",
+            "Edmond Obeid",
+            "John Lukaszczyk",
+            "Claudia Ferran",
+            "Neha Rastogi",
+            "Ellen Didimamoff",
+            "Bruce Davis",
+            "Harsh Goel",
+            "Maureen Persin",
+            "Michael Abgott",
+            "Robert Matta",
+            "Martha Metzgar",
+            "Douglas Degler",
+            "Michael O\ufffdConnor",
+            "Hetushma Patel",
+            "Paige Van Wirt"
+        ],
+        "SINAI-GRACE HOSPITAL": [
+            "Madhumitha Krishnamoorthy",
+            "Quadir Jaleel",
+            "Dennis Treece",
+            "Sanjay Lakhani",
+            "David Williams"
+        ],
+        "AURORA MEDICAL CENTER - GRAFTON": [
+            "Senait Tesfai-Barker"
+        ],
+        "MUNSON MEDICAL CENTER": [
+            "Thomas Nussdorfer"
+        ],
+        "FAIRVIEW HOSPITAL": [
+            "Annie Tan",
+            "Carole Rojas",
+            "Lisa Cloud",
+            "Katherine Jones",
+            "Timothy Bohn",
+            "Lisa Marsh",
+            "Sunir Kumar",
+            "Mudita Bhatia",
+            "Carl Tyler",
+            "Angela Murphy",
+            "Rashmi Jain",
+            "Saad Munzar",
+            "Swarnalatha Meyyazhagan",
+            "Neil Smith",
+            "Robert Colacarro",
+            "Daniel Allan"
+        ],
+        "YORK HOSPITAL": [
+            "Jerome Carolino",
+            "Luciene Borowik",
+            "Mark Cohen",
+            "Susan Kurz",
+            "Carl Colombo",
+            "Richard Kurz",
+            "Kimberly Kurland",
+            "Heui Yoo",
+            "Douglas Brenneman",
+            "Thomas Kurland",
+            "Annie Kannarkatt",
+            "Lauren Smith-Leed",
+            "Puneet Gupta",
+            "Erin Roberts"
+        ],
+        "ST JOSEPHS COMMUNITY HOSPITAL WEST BEND": [
+            "Anthony Guthrie",
+            "Meghan Fabrizi",
+            "Jacquelyn Dinusson",
+            "Heather Stack"
+        ],
+        "CORTLAND REGIONAL MEDICAL CENTER, INC": [
+            "Michael Niziol",
+            "Paula Gauss",
+            "Janet Johnson",
+            "Nada Salman",
+            "Biswarup Syam"
+        ],
+        "BUTLER MEMORIAL HOSPITAL": [
+            "Jessica Buriak",
+            "Dhinesh Samuel",
+            "Megan Nash",
+            "Robert Hornsby",
+            "Mrunali Luke",
+            "Janice Chan",
+            "Amanda Adams",
+            "Michael Trotta",
+            "Dennis Demby",
+            "Dennis Dobrzynski"
+        ],
+        "HSHS ST CLARE MEMORIAL HOSPITAL": [
+            "William Reynders"
+        ],
+        "ATRIUM MEDICAL CENTER": [
+            "Anne Nestor",
+            "Christopher Eppley",
+            "Jeffrey Jarrett"
+        ],
+        "UPMC MERCY": [
+            "Chhaganlal Ladani"
+        ],
+        "OLEAN GENERAL HOSPITAL": [
+            "Zia Sheikh",
+            "Karisa Young",
+            "David Brubaker",
+            "Elizabeth Printup",
+            "Dinesh Lahoti"
+        ],
+        "MARQUETTE GENERAL HOSPITAL": [
+            "Ryan Edwards",
+            "Michael Prevost"
+        ],
+        "HENRY FORD WYANDOTTE HOSPITAL": [
+            "Marcia Vanderbroek",
+            "Charles Xin",
+            "Edward Bush",
+            "Lubna Manzoor",
+            "Michael Ducato",
+            "Meredith McLaughlin",
+            "Rohit Verma",
+            "Ishika Verma",
+            "Nina Nayak",
+            "Ronald Baker",
+            "Douglas Zakolski",
+            "Mark Wein",
+            "Kurt Young"
+        ],
+        "PROMEDICA HERRICK HOSPITAL": [
+            "Lisa Suing",
+            "Carol Ways",
+            "Dennis Shelle"
+        ],
+        "WYOMING COUNTY COMMUNITY HOSPITAL": [
+            "Mary Richards"
+        ],
+        "HIGHLAND DISTRICT HOSPITAL": [
+            "Mary Inwood",
+            "Anita Wantz",
+            "David Gunderman"
+        ],
+        "OSWEGO HOSPITAL": [
+            "Renato Mandanas",
+            "Carmen Bautista Dator",
+            "Scott Van Gorder",
+            "Patrick Carguello"
+        ],
+        "KETTERING MEDICAL CENTER - SYCAMORE": [
+            "Michael Buch",
+            "Susan Stedje",
+            "Mark Day",
+            "Lawrence Ratcliff",
+            "Jolinda Caswell",
+            "William Ashcraft",
+            "F. Ward Blair",
+            "NaN",
+            "Ewa Campbell",
+            "Jeffrey Gleick",
+            "Sarah Hussain",
+            "Andrea Tewell",
+            "Kevin Riddle",
+            "Dena Mason Zied"
+        ],
+        "MUNSON HEALTHCARE GRAYLING HOSPITAL": [
+            "Walter Rathkamp"
+        ],
+        "STRAITH HOSPITAL FOR SPECIAL SURGERY": [
+            "Izzat Carouba"
+        ],
+        "AULTMAN HOSPITAL": [
+            "Narendra Sahney",
+            "Miranda Rose",
+            "Sonia Dhawan",
+            "Jacquelyn Dennis"
+        ],
+        "HOLY REDEEMER HOSPITAL AND MEDICAL CENTER": [
+            "Jessica Baker",
+            "Vinita Ponamgi",
+            "Alexander Pedicino"
+        ],
+        "PARKVIEW REGIONAL MEDICAL CENTER": [
+            "Andrew Mullally",
+            "Nicole Hartman",
+            "Charles Whalen",
+            "Lakshmi Aggarwal",
+            "Walter Pepple",
+            "David Zimmerman",
+            "Dolly Quispe Leveau"
+        ],
+        "ST. VINCENT HOSPITALS AND HEALTH SERVICES": [
+            "Matthew Nelsen",
+            "Ingrid Mason"
+        ],
+        "DICKINSON COUNTY MEMORIAL HOSPITAL": [
+            "Ellen Van Laanen",
+            "Terence Ryan",
+            "Katie Picucci"
+        ],
+        "UNIVERSITY OF KENTUCKY HOSPITAL": [
+            "William Young"
+        ],
+        "WATERBURY HOSPITAL": [
+            "Franco Galasso",
+            "Marc Raad",
+            "Joseph Pruner",
+            "Sayedur Rahman",
+            "Ines Zemaitis"
+        ],
+        "MAGEE WOMENS HOSPITAL OF UPMC HEALTH SYSTEM": [
+            "Susan Deakin",
+            "Rajni Madaan",
+            "Geneen Dashefsky",
+            "Daniel Casper"
+        ],
+        "MERCY HEALTH LAKESHORE CAMPUS": [
+            "James Twesten-Otoole",
+            "Elizabeth Tree-Levasseur",
+            "Kyle McKinney",
+            "Scott Addison",
+            "Rudy Ochs",
+            "Julie Shellhouse",
+            "David Folkmier",
+            "Irma Parra",
+            "Matthew Roberge"
+        ],
+        "BORGESS MEDICAL CENTER": [
+            "Lawrence Ulmer",
+            "Richard Semones"
+        ],
+        "SOUTHWEST GENERAL HEALTH CENTER": [
+            "Richard Devans",
+            "Mary Klein",
+            "Timothy Fetterman",
+            "Karyn Abdallah",
+            "Olga Kovacevic",
+            "Irena Kodz",
+            "Richard McBurney",
+            "Kimberly Biglow",
+            "William Damm"
+        ],
+        "SUNNYVIEW HOSPITAL AND REHABILITATION CENTER": [
+            "Michael Gardner",
+            "Dean Limeri",
+            "Jill Braverman-Panza",
+            "Priyangika Pathirana",
+            "Cindy Chan",
+            "Olai Sam",
+            "Christine Murphy",
+            "James Craig"
+        ],
+        "RIDDLE MEMORIAL HOSPITAL": [
+            "Bernard Zoranski",
+            "Jeffrey Pinsk",
+            "Henry Ling"
+        ],
+        "WAYNE HEALTHCARE": [
+            "Guillermo Trevino",
+            "Miguel Parilo",
+            "Jeffrey Studebaker",
+            "Ronald McGilton",
+            "Kattie Amegatcher"
+        ],
+        "CENTRAL DUPAGE HOSPITAL": [
+            "Brian Keuer",
+            "George Urban",
+            "Bonnie Bremer",
+            "David Beckmann",
+            "Joseph Emmons",
+            "Yasmeen Hasan"
+        ],
+        "WITHAM HEALTH SERVICES": [
+            "Christopher Culpepper"
+        ],
+        "SPRINGS MEMORIAL HOSPITAL": [
+            "Swapna Paladugu"
+        ],
+        "EXCELA HEALTH LATROBE HOSPITAL": [
+            "Jill Kielbiowski"
+        ],
+        "BEAUMONT HOSPITAL - TRENTON": [
+            "Jennifer Burgtorf",
+            "Andrew Athens"
+        ],
+        "BARNES-KASSON COUNTY HOSPITAL": [
+            "William Iveson"
+        ],
+        "SULLIVAN COUNTY COMMUNITY HOSPITAL": [
+            "Derek Parkes",
+            "Jessy Woods",
+            "Gene Bourgasser"
+        ],
+        "GEISINGER MEDICAL CENTER": [
+            "Alakananda Chakrabarty"
+        ],
+        "OHIOHEALTH MANSFIELD HOSPITAL": [
+            "Thomas Freundlich"
+        ],
+        "IU HEALTH WEST HOSPITAL": [
+            "Elisabeth Kline",
+            "Hala Fatima",
+            "Angela Debord Henriksen"
+        ],
+        "CHAMBERSBURG HOSPITAL": [
+            "Amatul Khalid",
+            "Nathan Petula",
+            "Gregory Gibson",
+            "Donald Delorenzo"
+        ],
+        "WILLIAMSPORT REGIONAL MEDICAL CENTER": [
+            "Ronald Eister",
+            "Dilip Elangbam",
+            "Frank Conly",
+            "Lisa Harpst"
+        ],
+        "AURORA MEDICAL CENTER KENOSHA": [
+            "Vincent Rizzo",
+            "Susanne Peschl",
+            "Alby Antoo"
+        ],
+        "SAINT JOSEPH REGIONAL MEDICAL CENTER": [
+            "Travis Casper"
+        ],
+        "JEFFERSON HOSPITAL": [
+            "Ryan Cooper",
+            "Rebecca McClaine",
+            "Bryon Berge",
+            "Linda Schuman",
+            "Darcy Giger",
+            "James Reilly",
+            "Brian Schwab",
+            "Rudolph Antoncic",
+            "Kenneth Lentz",
+            "Marc Itskowitz",
+            "William Annear"
+        ],
+        "PROMEDICA MONROE REGIONAL HOSPITAL": [
+            "J. Payton",
+            "Muhammad Javaid"
+        ],
+        "VASSAR BROTHERS MEDICAL CENTER": [
+            "Diane Braden",
+            "Yvenalie Laurent"
+        ],
+        "ALBANY MEDICAL CENTER HOSPITAL": [
+            "Ivelisse Verrico",
+            "Paul Sorum",
+            "Danielle Wales"
+        ],
+        "WYANDOT MEMORIAL HOSPITAL": [
+            "Craig Thompson"
+        ],
+        "HANOVER HOSPITAL": [
+            "Kurt Thomas",
+            "Michael Peck",
+            "Moushumi Kundu"
+        ],
+        "BRISTOL HOSPITAL": [
+            "David Domenichini"
+        ],
+        "ROCHESTER GENERAL HOSPITAL": [
+            "Kimberly Peterson",
+            "Thomas Roberts",
+            "Sheryl Holley",
+            "Paul Burns"
+        ],
+        "UNIVERSITY HOSPITALS AHUJA MEDICAL CENTER": [
+            "Miodrag Zivic",
+            "Vijay Rastogi"
+        ],
+        "WILLIAM W BACKUS HOSPITAL": [
+            "David Frederiks",
+            "Gary Bertman",
+            "Laura Saskal",
+            "Kristin Mahan",
+            "Donna Civardi"
+        ],
+        "ELMHURST MEMORIAL HOSPITAL": [
+            "John Born"
+        ],
+        "SAMARITAN MEDICAL CENTER": [
+            "Stephen Grybowski",
+            "Frank Rhode",
+            "Karen Williams"
+        ],
+        "WASHINGTON COUNTY HOSPITAL*": [
+            "Alfonso Urdaneta"
+        ],
+        "GENESYS REGIONAL MEDICAL CENTER - HEALTH PARK": [
+            "Dhiraj Bedi"
+        ],
+        "WARREN GENERAL HOSPITAL": [
+            "Myriam Elkosseifi"
+        ],
+        "PORTER REGIONAL HOSPITAL": [
+            "Leah Osorio"
+        ],
+        "ALLEGHENY VALLEY HOSPITAL": [
+            "Margaret Martin",
+            "Mohan Patel",
+            "David Shin",
+            "Brianna Bayer",
+            "Joseph Martinez",
+            "James Humphrey"
+        ],
+        "ALBERT EINSTEIN MEDICAL CENTER": [
+            "Jody Borgman",
+            "Steven Schmidt"
+        ],
+        "NORTHWESTERN LAKE FOREST HOSPITAL": [
+            "Sergei Shevlyagin",
+            "James Kim"
+        ],
+        "PRESENCE SAINT JOSEPH HOSPITAL - ELGIN": [
+            "Shazia Daudi",
+            "Gregory Winters"
+        ],
+        "THE JAMES B. HAGGIN MEMORIAL HOSPITAL": [
+            "Anjum Bux"
+        ],
+        "UPMC PASSAVANT": [
+            "Samuel Stepanow",
+            "Fred Florian",
+            "Kim Pierce"
+        ],
+        "HOLY SPIRIT HOSPITAL": [
+            "Adebukola Ogundoyin",
+            "Javed Ahmad"
+        ],
+        "LEHIGH VALLEY HOSPITAL": [
+            "Aaron Mendelson",
+            "Frederick Fleszler",
+            "Michael Engels",
+            "Frederic Stelzer"
+        ],
+        "HEALTHEAST ST JOHN'S HOSPITAL": [
+            "Jennifer Lake"
+        ],
+        "PRESENCE RESURRECTION MEDICAL CENTER": [
+            "Theodore Zbiegien",
+            "Julita Sadowski",
+            "Leszek Ballarin"
+        ],
+        "LA PORTE HOSPITAL": [
+            "Michael Howard",
+            "NaN",
+            "Minesh Patel",
+            "Anne Hollingsworth",
+            "Clayton Alexander"
+        ],
+        "NAZARETH HOSPITAL": [
+            "Phillip Liaw",
+            "Gregory Derusso",
+            "Richard Grant",
+            "Andrew Matthews"
+        ],
+        "PAOLI HOSPITAL": [
+            "Alan Mezey",
+            "Leila Obeid",
+            "Kimberly Sabadish",
+            "Joan McFadden",
+            "Ward O\ufffdDonnell"
+        ],
+        "MERCY HOSPITAL FAIRFIELD": [
+            "Eleia Joyce Reyes",
+            "Robert Samaan",
+            "Jeffery Murphy"
+        ],
+        "ELKHART GENERAL HOSPITAL": [
+            "Verlin Houck"
+        ],
+        "UNIVERSITY OF TOLEDO MEDICAL CENTER": [
+            "Mazin Salem"
+        ],
+        "MUNSON HEALTHCARE CADILLAC HOSPITAL": [
+            "Peter Gulick"
+        ],
+        "MIDSTATE MEDICAL CENTER": [
+            "Jackson Maille"
+        ],
+        "BEAUMONT HOSPITAL - FARMINGTON HILLS": [
+            "Rodwan Fadlallah",
+            "Courtney Mehock",
+            "Ann Froman",
+            "Annie Craib"
+        ],
+        "SENTARA NORFOLK GENERAL HOSPITAL": [
+            "Scott Flamm"
+        ],
+        "GLENS FALLS HOSPITAL": [
+            "Bryan Smead",
+            "Denise Richard",
+            "Suzanne Bergin",
+            "Paul Bachman",
+            "Thomas Portuese",
+            "William Papura",
+            "Laurie Gates",
+            "Jennifer Stratton",
+            "William Parker",
+            "Joseph Schwerman",
+            "Frances Bollinger",
+            "Sarah Durkee",
+            "Kyle Leonard",
+            "William Borgos"
+        ],
+        "PENN HIGHLAND DUBOIS": [
+            "George Mosch"
+        ],
+        "ST ELIZABETH FT THOMAS": [
+            "Robert Toltzis",
+            "Esther Saalfeld"
+        ],
+        "EMMA L BIXBY MEDICAL CENTER": [
+            "Aron Gornowicz"
+        ],
+        "ESKENAZI HEALTH": [
+            "Poonam Paruchuri"
+        ],
+        "WAYNE COUNTY HOSPITAL": [
+            "Samuel Weigel"
+        ],
+        "MCLAREN OAKLAND": [
+            "Nicholas Barjaktarovich",
+            "Preston Thomas",
+            "Aleida Rivera",
+            "Robert Basak",
+            "Lisa Dietz",
+            "Lori Lajoie",
+            "Richard Keirn",
+            "Bryan Swilley",
+            "Andrew Zazaian"
+        ],
+        "BLESSING HOSPITAL": [
+            "Jolinn Tripp",
+            "Joseph Lane"
+        ],
+        "WAYNE MEMORIAL HOSPITAL": [
+            "Lakshmi Mizin",
+            "Mehjabeen Alam",
+            "William Kesselring",
+            "Jonathan Goldner",
+            "Vincent Francescangeli",
+            "Roman Matlaga"
+        ],
+        "PENN PRESBYTERIAN MEDICAL CENTER": [
+            "Joseph Shaeffer"
+        ],
+        "LAKE HEALTH": [
+            "Michael Hackett",
+            "Dharmesh Mehta"
+        ],
+        "UNIVERSITY HOSPITAL S U N Y HEALTH SCIENCE CENTER": [
+            "Jeffrey Perkins",
+            "Jennie Brown",
+            "Patsy Iannolo",
+            "Jay Sullivan"
+        ],
+        "PERRY COUNTY MEMORIAL HOSPITAL": [
+            "James Rogan",
+            "Melinda Gruber",
+            "Glenn Sherman"
+        ],
+        "INDIANA UNIVERSITY HEALTH WHITE MEMORIAL HOSPITAL": [
+            "Debra Graber",
+            "William Li"
+        ],
+        "MEDINA HOSPITAL": [
+            "Huma Rizvi",
+            "Charles Wu",
+            "Catherine Sheridan"
+        ],
+        "UPPER VALLEY MEDICAL CENTER": [
+            "Anupama Kulkarni",
+            "Aaron Harju",
+            "Craig Critchley",
+            "Robert Harrington",
+            "Todd Holsinger",
+            "Patricia Grice",
+            "Abdul Butman"
+        ],
+        "MEADVILLE MEDICAL CENTER": [
+            "Robert Bazylak",
+            "Joseph Mercurio"
+        ],
+        "PROVIDENCE HOSP AND MED CTRS": [
+            "Fouad Batah",
+            "Laina Feinstein",
+            "Julie Finn",
+            "Charles Godoshian",
+            "Rita Khaneja-Sharrow"
+        ],
+        "UPMC BEDFORD MEMORIAL": [
+            "Joanna Brady"
+        ],
+        "KALEIDA HEALTH": [
+            "Patrick Frieary",
+            "William Healy",
+            "Myron Glick",
+            "Roberto Diaz Del Carpio",
+            "James Stoltzfus",
+            "Priyanka Patnaik",
+            "Larisa Meras"
+        ],
+        "CHRISTIANA HOSPITAL": [
+            "Mark Eskander",
+            "Robin Horn",
+            "Michelle Kelly"
+        ],
+        "GEISINGER-BLOOMSBURG HOSPITAL": [
+            "Frank Giugliano"
+        ],
+        "SACRED HEART HOSPITAL": [
+            "Rehab Tabchi"
+        ],
+        "HARPER UNIVERSITY HOSPITAL": [
+            "William Rusinow",
+            "Uma Gorrepati",
+            "Sunitha Nambiar"
+        ],
+        "BAPTIST HEALTH LOUISVILLE": [
+            "Stephen Karem"
+        ],
+        "SPARROW IONIA HOSPITAL": [
+            "Craig Brown",
+            "Vishal Saini",
+            "Timothy Izzo"
+        ],
+        "DEKALB HEALTH": [
+            "Gretchen Jenkins"
+        ],
+        "MARION GENERAL HOSPITAL": [
+            "Mark Davis",
+            "Timothy Garner"
+        ],
+        "BEAUMONT HOSPITAL - TAYLOR": [
+            "Christine Climie",
+            "Champa Dassanayake",
+            "Eliezer De Leon",
+            "Jonathan Zimmerman",
+            "Paul Malick",
+            "Shabana Khan",
+            "Matthew Marcarian",
+            "Raj Goswami"
+        ],
+        "WINDHAM COMMUNITY MEMORIAL HOSPITAL": [
+            "Kenneth Dardick",
+            "Ross Winakor"
+        ],
+        "INDIANA UNIVERSITY HEALTH ARNETT HOSPITAL": [
+            "Lori Pekarek",
+            "Scott Wood"
+        ],
+        "WEST CARROLL MEMORIAL HOSPITAL": [
+            "Donna Walker"
+        ],
+        "ST JOSEPH MERCY CHELSEA": [
+            "Lisa Legere-Struntz"
+        ],
+        "JAMESON MEMORIAL HOSPITAL": [
+            "Hugh Shearer",
+            "Darren Machak"
+        ],
+        "SCHEURER HOSPITAL": [
+            "Scott Reiter",
+            "Opesanmi Esan"
+        ],
+        "TAYLORVILLE MEMORIAL HOSPITAL": [
+            "Mario Velasco"
+        ],
+        "NORTH OTTAWA COMMUNITY HEALTH SYSTEM": [
+            "Darrell Roelandt",
+            "Gregory Stempky",
+            "Alex Wagner"
+        ],
+        "HENNEPIN COUNTY MEDICAL CENTER 1": [
+            "Lourdes Pira",
+            "Robin Councilman"
+        ],
+        "ST. VINCENT ANDERSON REGIONAL HOSPITAL": [
+            "Mark Lawlor"
+        ],
+        "MERCY HOSPITAL CLERMONT": [
+            "Michael Dietz",
+            "Chandrasekar Vaidyanathan",
+            "Nabarun Sarkar",
+            "Anil Kakumanu"
+        ],
+        "SOMERSET HOSPITAL": [
+            "Marlo Marcheleovich",
+            "Suzanne Blasko",
+            "Justine Montgomery"
+        ],
+        "MUNSON HEALTHCARE MANISTEE HOSPITAL": [
+            "Melissa Fleszar"
+        ],
+        "HALIFAX REGIONAL MEDICAL CENTER INC": [
+            "Laurie Nilsen"
+        ],
+        "BEAUMONT HOSPITAL - DEARBORN": [
+            "Mark Hannis",
+            "Gregory Marcarian",
+            "Mohannad Alool",
+            "Ruaa Elteriefi"
+        ],
+        "TEMPLE UNIVERSITY HOSPITAL": [
+            "Jack Nemez",
+            "Stephanie Barbetta"
+        ],
+        "FINGER LAKE HEALTH-GENEVA GENERAL HOSPITAL": [
+            "Joseph Lorenzetti"
+        ],
+        "WESTERLY HOSPITAL": [
+            "Stefana Pecher"
+        ],
+        "GARDEN CITY HOSPITAL": [
+            "Deborah Kay",
+            "Imad George",
+            "Zachary Lemon",
+            "Christopher Doig"
+        ],
+        "DANBURY HOSPITAL": [
+            "Alphonse Altorelli",
+            "James Ahern"
+        ],
+        "KENMORE MERCY HOSPITAL": [
+            "Laraine Wende",
+            "Hartwig Boepple"
+        ],
+        "ADVOCATE ILLINOIS MASONIC MEDICAL CENTER": [
+            "Loren Zuiderveld"
+        ],
+        "UNITED HOSPITAL SYSTEM": [
+            "Kevin Fullin",
+            "Gregory Rocco",
+            "Ehab Saad"
+        ],
+        "PENN HIGHLANDS ELK": [
+            "Ulrike Donahue",
+            "James O\ufffdBryon"
+        ],
+        "INGALLS MEMORIAL HOSPITAL": [
+            "Kimberly Kruczek",
+            "Bsher Touleimat",
+            "Ilene Weintraub Yohay",
+            "Cyrus Akrami"
+        ],
+        "ST. JOSEPH HOSPITAL & HEALTH CENTER, INC": [
+            "Lance Washington",
+            "William Rauh",
+            "Josephine Okwechime",
+            "Techsin Ty"
+        ],
+        "TYLER MEMORIAL HOSPITAL": [
+            "Terrance Chilson"
+        ],
+        "UMASS MEMORIAL MEDICAL CENTER-UNIVERSITY CAMPUS": [
+            "Karen Wiss"
+        ],
+        "VISTA MEDICAL CENTER EAST": [
+            "David Alengo",
+            "Jennifer Bellucci Jackson"
+        ],
+        "EUCLID HOSPITAL": [
+            "Uche Iheme"
+        ],
+        "CLEAR LAKE REGIONAL MEDICAL CENTER": [
+            "Maheswary Jegatheswaran"
+        ],
+        "PENN HIGHLANDS BROOKVILLE": [
+            "Anthony Dimatteo",
+            "Nishan Kugan"
+        ],
+        "MERCY HEALTH - WEST HOSPITAL": [
+            "Melissa Schroer"
+        ],
+        "FRANCISCAN HEALTH CROWN POINT": [
+            "Timothy Mullally"
+        ],
+        "WEST ALLIS MEMORIAL HOSPITAL": [
+            "Margaret Gladysz",
+            "Peter Leonovicz"
+        ],
+        "FLORIDA HOSPITAL ZEPHYRHILLS": [
+            "Karen Evans"
+        ],
+        "ARTESIA GENERAL HOSPITAL": [
+            "Philip Caterbone"
+        ],
+        "SOLDIERS AND SAILORS MEMORIAL HOSPITAL OF YATES": [
+            "Timothy Malia"
+        ],
+        "KETTERING MEDICAL CENTER": [
+            "Letitia Thompson-Hargrave"
+        ],
+        "ST. VINCENT CARMEL HOSPITAL, INC.": [
+            "James Malenkos"
+        ],
+        "RUSH OAK PARK HOSPITAL": [
+            "Megan Gayeski",
+            "Donald Childs"
+        ],
+        "MEMORIAL MEDICAL CENTER": [
+            "Ruth Holley",
+            "Leona Burnham",
+            "Jennifer Ellison",
+            "Kiley Marsaglia",
+            "Angela Severado"
+        ],
+        "WILSON MEMORIAL HOSPITAL": [
+            "James Burkhardt",
+            "Gretchen Lorenz"
+        ],
+        "MUSC MEDICAL CENTER": [
+            "Elizabeth Higgins"
+        ],
+        "MCLAREN FLINT": [
+            "Brian Bhagat",
+            "Caroline Mathew",
+            "Ravikumar Peddireddy"
+        ],
+        "RIVERSIDE MEDICAL CENTER": [
+            "Simon Wu",
+            "Asima Hussaini",
+            "Keith Moss",
+            "Ritu Chandan",
+            "Vallabh Patel",
+            "Naresh Chandan",
+            "Syeda Ali"
+        ],
+        "CRITTENTON HOSPITAL MEDICAL CENTER": [
+            "Stacey Kastl",
+            "Vesna Tegeltija",
+            "Christine Karle",
+            "Denise Gavorin"
+        ],
+        "MASSENA MEMORIAL HOSPITAL": [
+            "Katherine Richey",
+            "Emily Wood",
+            "Jayant Jhaveri",
+            "Nikita Goliber",
+            "Nimesh Desai"
+        ],
+        "AKRON GENERAL MEDICAL CENTER": [
+            "Joseph Finocchio",
+            "Kathie Greene"
+        ],
+        "OTSEGO MEMORIAL HOSPITAL": [
+            "Robert Allum",
+            "Christopher Milan",
+            "Michael Samalik"
+        ],
+        "RIDGEVIEW SIBLEY MEDICAL CENTER": [
+            "Michael Lano",
+            "Nicholas Lafond"
+        ],
+        "MEMORIAL HOSPITAL AND HEALTH CARE CENTER": [
+            "Geoffrey Day",
+            "Lotfi Hadad"
+        ],
+        "WEST HOUSTON MEDICAL CENTER": [
+            "Bao Pham",
+            "Josier Nisnisan"
+        ],
+        "CHAMPLAIN VALLEY PHYSICIANS HOSPITAL MEDICAL CTR": [
+            "Alison Guile",
+            "David Garrison",
+            "Karen Cooper"
+        ],
+        "MINNESOTA VALLEY HEALTH CENTER  INC": [
+            "Assen Chekerdjiev"
+        ],
+        "ABINGTON MEMORIAL HOSPITAL": [
+            "Seth Sands",
+            "Andrew Fireman",
+            "James Foxhall"
+        ],
+        "MASONICARE HEALTH CENTER HOSPITAL": [
+            "Ronald Schwartz"
+        ],
+        "UNIVERSITY OF NEW MEXICO HOSPITAL": [
+            "Maria Hoober"
+        ],
+        "MARY RUTAN HOSPITAL": [
+            "Arthur Costin",
+            "Indrani Chutkay",
+            "Scott Costin"
+        ],
+        "MARGARET MARY COMMUNITY HOSPITAL INC": [
+            "Stephen Glaser",
+            "Kimberly Kick"
+        ],
+        "TENNOVA HEALTHCARE-JEFFERSON MEMORIAL HOSPITAL": [
+            "Syed Ahmed"
+        ],
+        "RIDGEVIEW MEDICAL CENTER": [
+            "Louise Arlien",
+            "Haizal Hamza",
+            "Brian Moran"
+        ],
+        "WILLIAMSON MEDICAL CENTER": [
+            "Karl Misulis"
+        ],
+        "BAPTIST MEDICAL CENTER": [
+            "Jared McFarlin"
+        ],
+        "OSF ST FRANCIS HOSPITAL AND MEDICAL GROUP": [
+            "Tangerine DuPuis"
+        ],
+        "RIVERVIEW HEALTH": [
+            "Jesse Spear"
+        ],
+        "WASHINGTON HEALTH SYSTEM GREENE": [
+            "Nathan Duer",
+            "Aaron Lenhart"
+        ],
+        "CLINTON MEMORIAL HOSPITAL": [
+            "John Merling",
+            "Rachel Sneed",
+            "Ted Schoettinger"
+        ],
+        "MERCY MEDICAL CENTER": [
+            "Gregory Haban",
+            "Amin Khalil",
+            "Edmund Wymyslo"
+        ],
+        "WAKEMED, RALEIGH CAMPUS": [
+            "Christopher Dunatov"
+        ],
+        "ROCKFORD MEMORIAL HOSPITAL": [
+            "Michal Zlowodzki"
+        ],
+        "SOUTHERN OHIO MEDICAL CENTER": [
+            "Justin Greenlee",
+            "Angela Shupert",
+            "Sean Stiltner",
+            "Leonard Otworth",
+            "Phillip Roberts"
+        ],
+        "HURON MEDICAL CENTER": [
+            "Scott Shisler"
+        ],
+        "SPECTRUM HEALTH LUDINGTON HOSPITAL": [
+            "John Cooney",
+            "Charles Pollard",
+            "Paul Wagner"
+        ],
+        "HINSDALE HOSPITAL": [
+            "Sitara Sharif"
+        ],
+        "FAYETTE COUNTY MEMORIAL HOSPITAL": [
+            "Dale Reno",
+            "Emily Johnson"
+        ],
+        "HIGHLANDS HOSPITAL": [
+            "Jarrett Bender",
+            "Scott Jacobson"
+        ],
+        "WHEATON FRANCISCAN ST JOSEPH": [
+            "Alok Goyal"
+        ],
+        "KISHWAUKEE COMMUNITY HOSPITAL": [
+            "Vivian Vanroekel"
+        ],
+        "NATHAN LITTAUER HOSPITAL": [
+            "Paul Perreault",
+            "Janis Freeman"
+        ],
+        "INDIANA UNIVERSITY HEALTH METHODIST HOSPITAL (INDIANAPOLIS)": [
+            "Raluca Vucescu",
+            "Joel Mulder",
+            "Fnu Taneem Sultana",
+            "Jeffrey Duvall",
+            "Idella Simmons",
+            "Brock McMillen"
+        ],
+        "LITTLE COMPANY OF MARY HOSPITAL": [
+            "Ginny Hendricks"
+        ],
+        "GRIFFIN HOSPITAL": [
+            "Serafima Glouzgal",
+            "Steven Fisher",
+            "Bardia Asgari"
+        ],
+        "CHARLOTTE HUNGERFORD HOSPITAL": [
+            "Frank Crociata"
+        ],
+        "VIRTUA MEMORIAL": [
+            "Kim McNichol"
+        ],
+        "EISENHOWER MEDICAL CENTER": [
+            "Alfred Caruso"
+        ],
+        "THOREK MEMORIAL HOSPITAL": [
+            "Harold Diaz"
+        ],
+        "NORTON HOSPITALS, INC": [
+            "Sheron Williams",
+            "Dava Helton",
+            "Patricia Isaacs"
+        ],
+        "H B MAGRUDER MEMORIAL HOSPITAL": [
+            "James McLean"
+        ],
+        "PALOS COMMUNITY HOSPITAL": [
+            "Joseph Cytron",
+            "Abhishek Mehta",
+            "Kavitha Bathala"
+        ],
+        "GUTHRIE TOWANDA MEMORIAL HOSPITAL": [
+            "Joseph Speicher"
+        ],
+        "ST. MARY'S WARRICK HOSPITAL INC": [
+            "Syed Ali",
+            "William Tuley"
+        ],
+        "LEHIGH VALLEY HOSPITAL - POCONO": [
+            "Solibe Ufondu",
+            "Ravikumari Gollapalli",
+            "Marc Keuler"
+        ],
+        "BETHESDA NORTH": [
+            "James Lacroix"
+        ],
+        "UNION HOSPITAL": [
+            "Steffen Cameron"
+        ],
+        "EDWARD HOSPITAL": [
+            "Eileen Schedel",
+            "Robert Rozner"
+        ],
+        "MCKENZIE HEALTH SYSTEM": [
+            "Melanie Kramer-Harrington"
+        ],
+        "ATLANTICARE REGIONAL MEDICAL CENTER": [
+            "Gary Rosman"
+        ],
+        "ADVOCATE LUTHERAN GENERAL HOSPITAL": [
+            "Sarmila Govindan"
+        ],
+        "FRANCISCAN HEALTHCARE - MUNSTER": [
+            "Neha Patel"
+        ],
+        "GROVE CITY MEDICAL CENTER": [
+            "Kevin Leighton"
+        ],
+        "ST LUKE'S HOSPITAL - MONROE CAMPUS": [
+            "Sulagna De"
+        ],
+        "MCLAREN NORTHERN MICHIGAN": [
+            "Gustav Lo",
+            "Maureen Doull"
+        ],
+        "EDWARD W SPARROW HOSPITAL": [
+            "Partha Mookerjee",
+            "Gary Ferenchick"
+        ],
+        "INDIANA UNIVERSITY HEALTH PAOLI HOSPITAL": [
+            "Hojjat Shamloo"
+        ],
+        "ARIA HEALTH": [
+            "Edward Ciecko"
+        ],
+        "PETERSON REGIONAL MEDICAL CENTER": [
+            "Jon Chancellor"
+        ],
+        "PASSAVANT AREA HOSPITAL": [
+            "Beth Denmon"
+        ],
+        "UNIVERSITY HOSPITALS - ELYRIA MEDICAL CENTER": [
+            "Hazem Nouraldin"
+        ],
+        "ST FRANCIS HOSPITAL": [
+            "Bruce Weber"
+        ],
+        "THOMAS JEFFERSON UNIVERSITY HOSPITAL": [
+            "Anthony Lobianco"
+        ],
+        "ILLINI COMMUNITY HOSPITAL": [
+            "Kaleem Khan"
+        ],
+        "UPMC HORIZON": [
+            "Robert Multari"
+        ],
+        "HURLEY MEDICAL CENTER": [
+            "Khalid Ahmed"
+        ],
+        "UNIVERSITY OF MD BALTIMORE WASHINGTON MEDICAL CENTER": [
+            "Sharon Messics"
+        ],
+        "FORT HAMILTON HUGHES MEMORIAL HOSPITAL": [
+            "Erica Mathieu",
+            "Andrea Bell-Willis"
+        ],
+        "SWEDISH COVENANT HOSPITAL": [
+            "Jaroslav Goldman"
+        ],
+        "LEHIGH VALLEY HOSPITAL - HAZLETON": [
+            "Mark Lobitz"
+        ],
+        "WAUKESHA MEMORIAL HOSPITAL": [
+            "Kristine Cooper",
+            "Jillian Ewing Haas"
+        ],
+        "SPECTRUM HEALTH REED CITY HOSPITAL": [
+            "Harpreet Singh"
+        ],
+        "OSF SAINT ANTHONY MEDICAL CENTER": [
+            "Molly Engelkes"
+        ],
+        "JEFFERSON COUNTY HOSPITAL": [
+            "Renee Roy"
+        ],
+        "OAKLAWN HOSPITAL": [
+            "Raakesh Bhan",
+            "Katrina Hadcock"
+        ],
+        "GRANDVIEW AND SOUTHVIEW HOSPITALS": [
+            "Terri Wilkerson Riddiford",
+            "Miriam Obioha"
+        ],
+        "CLARION HOSPITAL": [
+            "Nicole Carroll"
+        ],
+        "ST MARGARETS HOSPITAL": [
+            "Robert Mestan"
+        ],
+        "PRESENCE MERCY MEDICAL CENTER": [
+            "Sifatur Sayeed"
+        ],
+        "SILVER CROSS HOSPITAL  AND MEDICAL CENTERS": [
+            "Cary Templin",
+            "Sara Doss"
+        ],
+        "PRESENCE SAINTS MARY AND ELIZABETH MEDICAL CENTER": [
+            "Kew-Jung Lee",
+            "Zenaida Racho"
+        ],
+        "CORAL GABLES HOSPITAL": [
+            "Laurentiu Boeru"
+        ],
+        "ST ANTHONYS MEMORIAL HOSPITAL": [
+            "Vijay Damarla"
+        ],
+        "MANCHESTER MEMORIAL HOSPITAL": [
+            "Mohamed Hussain"
+        ],
+        "THREE RIVERS HEALTH": [
+            "Timothy Gatz",
+            "Keyur Patel"
+        ],
+        "JOHN H STROGER JR HOSPITAL": [
+            "James Dorman"
+        ],
+        "BRONSON SOUTH HAVEN HOSPITAL": [
+            "David Liscow"
+        ],
+        "HANNIBAL REGIONAL HOSPITAL": [
+            "Amy North"
+        ],
+        "ELIZA COFFEE MEMORIAL HOSPITAL": [
+            "Elizabeth Dobbs"
+        ],
+        "WEST CHESTER HOSPITAL": [
+            "Barry Staley",
+            "Thomas Lundberg",
+            "Rachael Boland",
+            "Douglas Magenheim"
+        ],
+        "MILTON S HERSHEY MEDICAL CENTER": [
+            "Alexis Reedy-Cooper",
+            "Michael Devine"
+        ],
+        "MAYO CLINIC HOSPITAL ROCHESTER": [
+            "Fahad Faruqi"
+        ],
+        "LOWER BUCKS HOSPITAL": [
+            "Melinda Ratini"
+        ],
+        "UH GEAUGA MEDICAL CENTER": [
+            "Mark Rood"
+        ],
+        "ALLEGAN GENERAL HOSPITAL": [
+            "Louis Praamsma"
+        ],
+        "VIA CHRISTI HOSPITAL PITTSBURG INC": [
+            "Holly Cranston"
+        ],
+        "SOUTHEASTERN OHIO REGIONAL MEDICAL CENTER": [
+            "Michael Harrigal"
+        ],
+        "JAY COUNTY HOSPITAL": [
+            "Marlowe Stinson",
+            "Thomas Melham"
+        ],
+        "CHESTER COUNTY HOSPITAL": [
+            "Meghan Belamorich"
+        ],
+        "LUTHERAN HOSPITAL OF INDIANA": [
+            "Eamonn Keane"
+        ],
+        "VAN WERT COUNTY HOSPITAL": [
+            "Scott Jarvis"
+        ],
+        "SACRED HEART HOSPITAL ON THE EMERALD COAST": [
+            "Matthew Woodham"
+        ],
+        "CHIPPEWA COUNTY WAR MEMORIAL HOSPITAL": [
+            "Thilak Chander"
+        ],
+        "WOOD COUNTY HOSPITAL": [
+            "Nizar Daboul"
+        ],
+        "COOLEY DICKINSON HOSPITAL INC,THE": [
+            "Reginald Alouidor"
+        ],
+        "FRANCISCAN ST. MARGARET HEALTH HAMMOND": [
+            "Kenneth Ramsey"
+        ],
+        "NORTH CAROLINA BAPTIST HOSPITAL": [
+            "Mark Arredondo"
+        ],
+        "LEXINGTON MEDICAL CENTER": [
+            "Fanwei Meng"
+        ],
+        "WOODHULL MEDICAL AND MENTAL HEALTH CENTER": [
+            "David Holmes"
+        ],
+        "OHIO STATE UNIVERSITY STATE HEALTH SYSTEM": [
+            "Erin Wolf"
+        ],
+        "LODI COMMUNITY HOSPITAL": [
+            "Kimberly Sheets"
+        ],
+        "HAYES GREEN BEACH MEMORIAL HOSPITAL": [
+            "James Laberge"
+        ],
+        "LAWRENCE & MEMORIAL HOSPITAL": [
+            "Josee Cloutier"
+        ],
+        "SCHOOLCRAFT MEMORIAL HOSPITAL": [
+            "Theodore Oswald",
+            "Andrew Colman"
+        ],
+        "SOUTHWEST GENERAL HOSPITAL": [
+            "Teofilo Sanchez"
+        ],
+        "ALLINA UNITED HOSPITAL": [
+            "Sue Inoue",
+            "Kathleen Macken"
+        ],
+        "UPMC ALTOONA": [
+            "Jay Robinson",
+            "Mohammad Dowlut"
+        ],
+        "OU MEDICAL CENTER": [
+            "John Bundy"
+        ],
+        "GETTYSBURG HOSPITAL": [
+            "Mary Hoff"
+        ],
+        "STATEN ISLAND UNIVERSITY HOSPITAL": [
+            "Srinivas Duvvuri"
+        ],
+        "NIAGARA FALLS MEMORIAL MEDICAL CENTER": [
+            "James Collier",
+            "Patrick Ignatius"
+        ],
+        "ST VINCENT'S BIRMINGHAM": [
+            "Peter Licht"
+        ],
+        "ADVENTIST BOLINGBROOK HOSPITAL": [
+            "Seth Osafo"
+        ],
+        "KAISER FOUNDATION HOSPITAL - VACAVILLE": [
+            "Gurmeet Sidhu"
+        ],
+        "MAIN LINE HOSPITAL LANKENAU": [
+            "Peter Bidey"
+        ],
+        "ST CATHERINE HOSPITAL INC": [
+            "Wassim Atassi"
+        ],
+        "SALEM REGIONAL MEDICAL CENTER": [
+            "Matthew Gooch",
+            "Pamela Rodocoy"
+        ],
+        "KNOX COMMUNITY HOSPITAL": [
+            "Deborah Reeder"
+        ],
+        "PRESENCE SAINT FRANCIS HOSPITAL": [
+            "Timothy Oconnor",
+            "Boris Sheynin"
+        ],
+        "BAYLOR MEDICAL CENTER AT TROPHY CLUB": [
+            "Sri Yedlapalli"
+        ],
+        "WABASH GENERAL HOSPITAL 1": [
+            "Bruce Brink"
+        ],
+        "JEWISH HOSPITAL, LLC": [
+            "William Cox"
+        ],
+        "MUNISING MEMORIAL HOSPITAL": [
+            "Christine Krueger"
+        ],
+        "ST ELIZABETH YOUNGSTOWN HOSPITAL": [
+            "Michelle Dockry"
+        ],
+        "METRO-EAST SERVICES INC": [
+            "John English"
+        ],
+        "OCHSNER MEDICAL CENTER - NORTHSHORE, L L C": [
+            "Darren Cousin"
+        ],
+        "MERCY HOSPITAL AND MEDICAL CENTER": [
+            "Pravin Muniyappa"
+        ],
+        "SCHUYLKILL MEDICAL CENTER - SOUTH JACKSON STREET": [
+            "Matthew Sophy",
+            "Gregory Varghese"
+        ],
+        "MCLAREN LAPEER REGION": [
+            "Galen Ebert"
+        ],
+        "TRANSYLVANIA REGIONAL HOSPITAL, INC": [
+            "Leanne Kline"
+        ],
+        "SPRINGFIELD REGIONAL MEDICAL CENTER": [
+            "Jacob Dean"
+        ],
+        "BAPTIST HEALTH FLOYD": [
+            "Kristie Upton",
+            "Brian Heimer"
+        ],
+        "ANTELOPE VALLEY HOSPITAL": [
+            "Mihir Patel"
+        ],
+        "CORNING HOSPITAL": [
+            "Heidi Hodder"
+        ],
+        "SPECTRUM HEALTH GERBER MEMORIAL": [
+            "Lindsay Oliveira"
+        ],
+        "UNION HOSPITAL INC": [
+            "Carl Conwell"
+        ],
+        "ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER": [
+            "Jerry Coltro"
+        ],
+        "EAST COOPER MEDICAL CENTER": [
+            "Elizabeth Whirrett"
+        ],
+        "MIDMICHIGAN MEDICAL CENTER-GRATIOT": [
+            "Annu Mohan"
+        ]
+    }
+}

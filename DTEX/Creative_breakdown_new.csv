@@ -1,0 +1,10 @@
+index,Creative_Name,EventType,EventCount
+0,Accurate Patient Data,Click,131
+1,Accurate Patient Data,Impression,137059
+2,EntryPoint1A,Click,116
+3,EntryPoint1A,Impression,134002
+4,NaN,Click,3
+5,Relieve Admin Burdens,Click,167
+6,Relieve Admin Burdens,Impression,155755
+7,Value Based Care,Click,114
+8,Value Based Care,Impression,105713
